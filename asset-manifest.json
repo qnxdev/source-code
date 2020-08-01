@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/vb/static/css/main.ffdcf864.chunk.css",
-    "main.js": "/vb/static/js/main.e1cd9af3.chunk.js",
-    "main.js.map": "/vb/static/js/main.e1cd9af3.chunk.js.map",
+    "main.js": "/vb/static/js/main.82aa1938.chunk.js",
+    "main.js.map": "/vb/static/js/main.82aa1938.chunk.js.map",
     "runtime-main.js": "/vb/static/js/runtime-main.d67152ba.js",
     "runtime-main.js.map": "/vb/static/js/runtime-main.d67152ba.js.map",
-    "static/js/2.b07a17ca.chunk.js": "/vb/static/js/2.b07a17ca.chunk.js",
-    "static/js/2.b07a17ca.chunk.js.map": "/vb/static/js/2.b07a17ca.chunk.js.map",
+    "static/js/2.9331392c.chunk.js": "/vb/static/js/2.9331392c.chunk.js",
+    "static/js/2.9331392c.chunk.js.map": "/vb/static/js/2.9331392c.chunk.js.map",
     "index.html": "/vb/index.html",
-    "precache-manifest.53dce480870904792e15a1778b561f7f.js": "/vb/precache-manifest.53dce480870904792e15a1778b561f7f.js",
+    "precache-manifest.8be2ecf4e1fe8b2b892123a648114c65.js": "/vb/precache-manifest.8be2ecf4e1fe8b2b892123a648114c65.js",
     "service-worker.js": "/vb/service-worker.js",
     "static/css/main.ffdcf864.chunk.css.map": "/vb/static/css/main.ffdcf864.chunk.css.map",
-    "static/js/2.b07a17ca.chunk.js.LICENSE.txt": "/vb/static/js/2.b07a17ca.chunk.js.LICENSE.txt",
+    "static/js/2.9331392c.chunk.js.LICENSE.txt": "/vb/static/js/2.9331392c.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/vb/static/media/100.47e65089.jpg",
     "static/media/101.jpg": "/vb/static/media/101.ffa32b3d.jpg",
     "static/media/102.jpg": "/vb/static/media/102.ded986e1.jpg",
@@ -229,6 +229,7 @@
     "static/media/IMG_9724.JPG": "/vb/static/media/IMG_9724.95bdcdfa.JPG",
     "static/media/IMG_9928.jpg": "/vb/static/media/IMG_9928.31ce780e.jpg",
     "static/media/ISTE.png": "/vb/static/media/ISTE.5b858294.png",
+    "static/media/ISTE1.png": "/vb/static/media/ISTE1.5b858294.png",
     "static/media/JainPVarghese.jpg": "/vb/static/media/JainPVarghese.d274b596.jpg",
     "static/media/Jibbypeter.JPEG": "/vb/static/media/Jibbypeter.afe7694f.JPEG",
     "static/media/Logo.jpg": "/vb/static/media/Logo.93677cf1.jpg",
@@ -441,8 +442,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d67152ba.js",
-    "static/js/2.b07a17ca.chunk.js",
+    "static/js/2.9331392c.chunk.js",
     "static/css/main.ffdcf864.chunk.css",
-    "static/js/main.e1cd9af3.chunk.js"
+    "static/js/main.82aa1938.chunk.js"
   ]
 }
