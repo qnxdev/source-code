@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "242f05ac63d9bc073a33574541f57549",
+    "revision": "df3ef45eecfe8f8d6e69dceceb50bde2",
     "url": "/vb/index.html"
   },
   {
-    "revision": "795ff8435e2bca23dbdf",
+    "revision": "32fbbc115abfbafb9746",
     "url": "/vb/static/css/main.ffdcf864.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/js/2.9331392c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "795ff8435e2bca23dbdf",
-    "url": "/vb/static/js/main.ab6c4de1.chunk.js"
+    "revision": "32fbbc115abfbafb9746",
+    "url": "/vb/static/js/main.c2ca2a0a.chunk.js"
   },
   {
     "revision": "256a06990bd69b8eb3b3",
@@ -668,12 +668,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/media/Bg1.4eac9830.JPG"
   },
   {
-    "revision": "76ec95398a1523c32610b0e0b4c4c7c9",
-    "url": "/vb/static/media/BigNews2.76ec9539.jpg"
+    "revision": "e567106224262494e4ec753325598d96",
+    "url": "/vb/static/media/BigNews2.e5671062.jpg"
   },
   {
-    "revision": "cd7d4d067f88f573b75d1fc91e58cac1",
-    "url": "/vb/static/media/BigNews3.cd7d4d06.jpg"
+    "revision": "ec167a1508805e9e890da26b0ff8879f",
+    "url": "/vb/static/media/BigNews3.ec167a15.jpg"
   },
   {
     "revision": "3033e156d7398654e0e1f710b4d17126",
@@ -832,10 +832,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/media/IEE2.8b6c4788.png"
   },
   {
-    "revision": "f54e5bf38f65975e9710829014e8998e",
-    "url": "/vb/static/media/IEEE.f54e5bf3.png"
-  },
-  {
     "revision": "9dffbb212f3445206db874e51553084f",
     "url": "/vb/static/media/IGBC.9dffbb21.jpg"
   },
@@ -896,8 +892,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/media/IMG_9928.31ce780e.jpg"
   },
   {
-    "revision": "c7996dfdb1189add34ac0ae644e99225",
-    "url": "/vb/static/media/ISTE.c7996dfd.png"
+    "revision": "e85706ae37d19f68684768489abb3171",
+    "url": "/vb/static/media/ISTE.e85706ae.png"
   },
   {
     "revision": "c7996dfdb1189add34ac0ae644e99225",
@@ -912,8 +908,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/media/Jibbypeter.afe7694f.JPEG"
   },
   {
-    "revision": "a3ae8ed34f8552260f4ea3f903b49a45",
-    "url": "/vb/static/media/Logo.a3ae8ed3.jpg"
+    "revision": "93677cf160ab30f369e584b418d871bb",
+    "url": "/vb/static/media/Logo.93677cf1.jpg"
   },
   {
     "revision": "ab45fae9abd186bfc51f46282e949c16",
@@ -956,12 +952,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/media/Mtech4.fc129282.jpg"
   },
   {
-    "revision": "21ee8899a8d3d882b1ca479ac279091b",
-    "url": "/vb/static/media/NSS.21ee8899.png"
+    "revision": "101cf570497909c76534caa83f183d1d",
+    "url": "/vb/static/media/NSS.101cf570.png"
   },
   {
-    "revision": "e15e1c615a86bdfb78d6e6ccd1e82558",
-    "url": "/vb/static/media/NSS.e15e1c61.png"
+    "revision": "21ee8899a8d3d882b1ca479ac279091b",
+    "url": "/vb/static/media/NSS.21ee8899.png"
   },
   {
     "revision": "82671d845cb2f3e8c635a2923557e6e3",
@@ -1016,6 +1012,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/media/Registernow.f324897a.jpg"
   },
   {
+    "revision": "25001993920f04822158527ecc3bd5a4",
+    "url": "/vb/static/media/SAEINDIA.25001993.jpg"
+  },
+  {
     "revision": "ac4f011bbd200e0743568d77c7f37d86",
     "url": "/vb/static/media/SAEINDIA.ac4f011b.jpg"
   },
@@ -1040,12 +1040,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/media/SIBY BABY.e9070abe.jpg"
   },
   {
-    "revision": "1b1659e9796bf33d4b0802e93b6c77b7",
-    "url": "/vb/static/media/Section1.1b1659e9.jpg"
+    "revision": "a837d55e2f2991e3e50a01f09513939f",
+    "url": "/vb/static/media/Section1.a837d55e.jpg"
   },
   {
-    "revision": "9b2c0f312531c5dca5a907613f64d284",
-    "url": "/vb/static/media/Section1.9b2c0f31.jpg"
+    "revision": "e6fffb1f8689d6594b5e9e6f3148eb0c",
+    "url": "/vb/static/media/Section1.e6fffb1f.jpg"
   },
   {
     "revision": "fdc476a900f457064bbdcae7baffadd9",
@@ -1060,8 +1060,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/media/Section2.05c468c8.jpg"
   },
   {
-    "revision": "341ca5227b1988b55a0e2bc7291068e0",
-    "url": "/vb/static/media/Section2.341ca522.jpg"
+    "revision": "38ae5f4b969e23b95c3d8741441b971c",
+    "url": "/vb/static/media/Section2.38ae5f4b.jpg"
   },
   {
     "revision": "d40c8de9fbf73e6b4c24eb136a7ad552",
@@ -1076,16 +1076,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/media/Section3.4719d779.jpg"
   },
   {
-    "revision": "7484badf70d270d34adce69137879340",
-    "url": "/vb/static/media/Section3.7484badf.png"
+    "revision": "ecdf93833c96e27087a81a0d425cad59",
+    "url": "/vb/static/media/Section3.ecdf9383.jpg"
   },
   {
-    "revision": "88a8ecaedce1b9fbd7d2a3be5821df69",
-    "url": "/vb/static/media/Section3.88a8ecae.jpg"
+    "revision": "ecdf93833c96e27087a81a0d425cad59",
+    "url": "/vb/static/media/Section3.ecdf9383.png"
   },
   {
-    "revision": "09273bb77590ee7d29e7f7667a1c07dd",
-    "url": "/vb/static/media/Section5.09273bb7.jpg"
+    "revision": "571807a2c33c99a1c3585d0861597ebe",
+    "url": "/vb/static/media/Section5.571807a2.jpg"
   },
   {
     "revision": "b85c9986b060dd8e0c15e19f22a22df6",
@@ -1186,10 +1186,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e85abe0afffc86f9ad70e434cfd3dcee",
     "url": "/vb/static/media/campus2.e85abe0a.jpg"
-  },
-  {
-    "revision": "44d78a85f8379cfc083f07ce480f6577",
-    "url": "/vb/static/media/carousalthreeprevious.44d78a85.png"
   },
   {
     "revision": "43356e7d8c62f675a652a91bf41961f9",
@@ -1430,6 +1426,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5463260c90cfaedb9144a829be8730d3",
     "url": "/vb/static/media/iete.5463260c.jpg"
+  },
+  {
+    "revision": "e4754d4febf96dafd0b028a21f4aaa3a",
+    "url": "/vb/static/media/iete.e4754d4f.jpg"
   },
   {
     "revision": "24ba656f0bc6b5f1cd5e8bf13efef2cf",
