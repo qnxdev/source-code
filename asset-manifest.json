@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vb/static/css/main.155c0390.chunk.css",
-    "main.js": "/vb/static/js/main.bf6c0c95.chunk.js",
-    "main.js.map": "/vb/static/js/main.bf6c0c95.chunk.js.map",
+    "main.css": "/vb/static/css/main.7d53f2c9.chunk.css",
+    "main.js": "/vb/static/js/main.8e10fb93.chunk.js",
+    "main.js.map": "/vb/static/js/main.8e10fb93.chunk.js.map",
     "runtime-main.js": "/vb/static/js/runtime-main.d67152ba.js",
     "runtime-main.js.map": "/vb/static/js/runtime-main.d67152ba.js.map",
     "static/js/2.3371d623.chunk.js": "/vb/static/js/2.3371d623.chunk.js",
     "static/js/2.3371d623.chunk.js.map": "/vb/static/js/2.3371d623.chunk.js.map",
     "index.html": "/vb/index.html",
-    "precache-manifest.df7a0d50d4527453faee4d85b16ff810.js": "/vb/precache-manifest.df7a0d50d4527453faee4d85b16ff810.js",
+    "precache-manifest.6b8f7e573f73b30091100b77639a7079.js": "/vb/precache-manifest.6b8f7e573f73b30091100b77639a7079.js",
     "service-worker.js": "/vb/service-worker.js",
-    "static/css/main.155c0390.chunk.css.map": "/vb/static/css/main.155c0390.chunk.css.map",
+    "static/css/main.7d53f2c9.chunk.css.map": "/vb/static/css/main.7d53f2c9.chunk.css.map",
     "static/js/2.3371d623.chunk.js.LICENSE.txt": "/vb/static/js/2.3371d623.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/vb/static/media/100.47e65089.jpg",
     "static/media/101.jpg": "/vb/static/media/101.ffa32b3d.jpg",
@@ -408,7 +408,7 @@
     "static/media/nextArrow.svg": "/vb/static/media/nextArrow.0a7287eb.svg",
     "static/media/nobymathew.jpeg": "/vb/static/media/nobymathew.e414f518.jpeg",
     "static/media/placementnews.jpg": "/vb/static/media/placementnews.98058f35.jpg",
-    "static/media/poster.png": "/vb/static/media/poster.45dd0e51.png",
+    "static/media/poster.png": "/vb/static/media/poster.0e4350a0.png",
     "static/media/previousArrow.svg": "/vb/static/media/previousArrow.b53b7b61.svg",
     "static/media/principal.JPG": "/vb/static/media/principal.635b68ca.JPG",
     "static/media/rajeshgeorge.JPEG": "/vb/static/media/rajeshgeorge.18c0f1b7.JPEG",
@@ -431,14 +431,14 @@
     "static/media/unai.png": "/vb/static/media/unai.58341133.png",
     "static/media/univ.jpg": "/vb/static/media/univ.8ec76ba2.jpg",
     "static/media/vbic.jpg": "/vb/static/media/vbic.ee7e046e.jpg",
-    "static/media/vjcet.mp4": "/vb/static/media/vjcet.bcb43c19.mp4",
+    "static/media/vjcet.mp4": "/vb/static/media/vjcet.95891583.mp4",
     "static/media/vjcetbg.jpg": "/vb/static/media/vjcetbg.09c402ab.jpg",
     "static/media/youtube.svg": "/vb/static/media/youtube.0402a3db.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d67152ba.js",
     "static/js/2.3371d623.chunk.js",
-    "static/css/main.155c0390.chunk.css",
-    "static/js/main.bf6c0c95.chunk.js"
+    "static/css/main.7d53f2c9.chunk.css",
+    "static/js/main.8e10fb93.chunk.js"
   ]
 }
