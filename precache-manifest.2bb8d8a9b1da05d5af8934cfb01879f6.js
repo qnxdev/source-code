@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e550bb2af8ed85d6f5a3e74526e6fc4c",
+    "revision": "e4a61521704e449d34917de7b80b1c1c",
     "url": "/vb/index.html"
   },
   {
-    "revision": "3fad7c772f4a6b9cfbed",
+    "revision": "a079b28ddefed84765d3",
     "url": "/vb/static/css/main.220d0615.chunk.css"
   },
   {
-    "revision": "75687c751da7fabe5f6b",
-    "url": "/vb/static/js/2.cd9289e0.chunk.js"
+    "revision": "b5adeae609b2da902525",
+    "url": "/vb/static/js/2.36942f42.chunk.js"
   },
   {
     "revision": "fbbfe9ed4dc77af342a4a500830ec9a4",
-    "url": "/vb/static/js/2.cd9289e0.chunk.js.LICENSE.txt"
+    "url": "/vb/static/js/2.36942f42.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3fad7c772f4a6b9cfbed",
-    "url": "/vb/static/js/main.5de9765c.chunk.js"
+    "revision": "a079b28ddefed84765d3",
+    "url": "/vb/static/js/main.1cd85de6.chunk.js"
   },
   {
     "revision": "256a06990bd69b8eb3b3",
@@ -652,6 +652,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vb/static/media/AravindS.2fa63611.JPEG"
   },
   {
+    "revision": "8c519fe02084e68ddff171b6f66ef499",
+    "url": "/vb/static/media/B2020.8c519fe0.jpg"
+  },
+  {
     "revision": "994140d1dd28ec924e15ecd5af8b6196",
     "url": "/vb/static/media/Basketball.994140d1.jpg"
   },
@@ -978,6 +982,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c5af7eaa763ba56e093d007e1155ffe6",
     "url": "/vb/static/media/PTC_Banner.c5af7eaa.jpg"
+  },
+  {
+    "revision": "478aa317389d3d968109b6f1f8ff3403",
+    "url": "/vb/static/media/Pict1.478aa317.jpg"
+  },
+  {
+    "revision": "238dfbb54a9f8bda8cf387a3595b3e41",
+    "url": "/vb/static/media/Pict2.238dfbb5.jpg"
+  },
+  {
+    "revision": "264a47fa3e0d61e21aa5989daf7e7dcc",
+    "url": "/vb/static/media/Pict3.264a47fa.jpg"
+  },
+  {
+    "revision": "28980b022944e385eefb1c102f2c2062",
+    "url": "/vb/static/media/Pict4.28980b02.jpg"
   },
   {
     "revision": "cb8001f8a9a3e7ee34757bce9aca4b7b",

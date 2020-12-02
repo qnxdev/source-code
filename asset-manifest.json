@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/vb/static/css/main.220d0615.chunk.css",
-    "main.js": "/vb/static/js/main.5de9765c.chunk.js",
-    "main.js.map": "/vb/static/js/main.5de9765c.chunk.js.map",
+    "main.js": "/vb/static/js/main.1cd85de6.chunk.js",
+    "main.js.map": "/vb/static/js/main.1cd85de6.chunk.js.map",
     "runtime-main.js": "/vb/static/js/runtime-main.d67152ba.js",
     "runtime-main.js.map": "/vb/static/js/runtime-main.d67152ba.js.map",
-    "static/js/2.cd9289e0.chunk.js": "/vb/static/js/2.cd9289e0.chunk.js",
-    "static/js/2.cd9289e0.chunk.js.map": "/vb/static/js/2.cd9289e0.chunk.js.map",
+    "static/js/2.36942f42.chunk.js": "/vb/static/js/2.36942f42.chunk.js",
+    "static/js/2.36942f42.chunk.js.map": "/vb/static/js/2.36942f42.chunk.js.map",
     "index.html": "/vb/index.html",
-    "precache-manifest.61ac13a2af24809b579a36b33fd16ae5.js": "/vb/precache-manifest.61ac13a2af24809b579a36b33fd16ae5.js",
+    "precache-manifest.2bb8d8a9b1da05d5af8934cfb01879f6.js": "/vb/precache-manifest.2bb8d8a9b1da05d5af8934cfb01879f6.js",
     "service-worker.js": "/vb/service-worker.js",
     "static/css/main.220d0615.chunk.css.map": "/vb/static/css/main.220d0615.chunk.css.map",
-    "static/js/2.cd9289e0.chunk.js.LICENSE.txt": "/vb/static/js/2.cd9289e0.chunk.js.LICENSE.txt",
+    "static/js/2.36942f42.chunk.js.LICENSE.txt": "/vb/static/js/2.36942f42.chunk.js.LICENSE.txt",
     "static/media/100.jpg": "/vb/static/media/100.47e65089.jpg",
     "static/media/101.jpg": "/vb/static/media/101.ffa32b3d.jpg",
     "static/media/102.jpg": "/vb/static/media/102.ded986e1.jpg",
@@ -169,6 +169,7 @@
     "static/media/99.jpg": "/vb/static/media/99.91c9e3c9.jpg",
     "static/media/Anishmjose.JPEG": "/vb/static/media/Anishmjose.302d3657.JPEG",
     "static/media/AravindS.JPEG": "/vb/static/media/AravindS.2fa63611.JPEG",
+    "static/media/B2020.jpg": "/vb/static/media/B2020.8c519fe0.jpg",
     "static/media/Basketball.jpg": "/vb/static/media/Basketball.994140d1.jpg",
     "static/media/Bg1.png": "/vb/static/media/Bg1.2ee62576.png",
     "static/media/FacilitiesSection.css": "/vb/static/media/Bg1.4eac9830.JPG",
@@ -251,6 +252,10 @@
     "static/media/PGPROJLAB.JPG": "/vb/static/media/PGPROJLAB.534aaaac.JPG",
     "static/media/PROJECTLAB.JPG": "/vb/static/media/PROJECTLAB.5a3343b4.JPG",
     "static/media/PTC_Banner.jpg": "/vb/static/media/PTC_Banner.c5af7eaa.jpg",
+    "static/media/Pict1.jpg": "/vb/static/media/Pict1.478aa317.jpg",
+    "static/media/Pict2.jpg": "/vb/static/media/Pict2.238dfbb5.jpg",
+    "static/media/Pict3.jpg": "/vb/static/media/Pict3.264a47fa.jpg",
+    "static/media/Pict4.jpg": "/vb/static/media/Pict4.28980b02.jpg",
     "static/media/Power and Back up.jpg": "/vb/static/media/Power and Back up.cb8001f8.jpg",
     "static/media/PriyaGL.jpeg": "/vb/static/media/PriyaGL.3484fb23.jpeg",
     "static/media/ProgrammingLab.JPG": "/vb/static/media/ProgrammingLab.0480741c.JPG",
@@ -444,8 +449,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d67152ba.js",
-    "static/js/2.cd9289e0.chunk.js",
+    "static/js/2.36942f42.chunk.js",
     "static/css/main.220d0615.chunk.css",
-    "static/js/main.5de9765c.chunk.js"
+    "static/js/main.1cd85de6.chunk.js"
   ]
 }
