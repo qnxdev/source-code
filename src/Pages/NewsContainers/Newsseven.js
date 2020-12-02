@@ -79,6 +79,7 @@ class Newsseven extends React.Component {
                 <HeadingTwo data={this.NewsTitle1} />
                     <p><h4><a href="https://vjcet.org/downloads/news/STTPbro.pdf" target="_blank" rel="noopener noreferrer">Program Bochure</a></h4></p>
                     <p><h4><a href="https://forms.gle/qvtyuKCdvg3bePgV9" target="_blank" rel="noopener noreferrer">Registration Link</a></h4></p>          
+                    <p><h4><a href="https://vjcet.org/downloads/news/sttpbr.jpeg" target="_blank" rel="noopener noreferrer">Program Schedule</a></h4></p>
                   
                   {/*  <table>
                         <tr><td>

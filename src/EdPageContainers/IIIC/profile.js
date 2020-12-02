@@ -40,7 +40,7 @@ class Profile extends Component {
     }
     ReserchBody1 = {
         instanceID: "ReserchBody1",
-        title: "Better interaction between Technical Institutions and Industry is the need of the hour. Realizing the relevance and importance of this, Industry Institute Interaction Cell(IIIC)  was formed in VJCET and had intensified its activities. Dr. K. K. Rajan was appointed as Dean, Industry Institute Interaction Cell with effect from 02.05.2016. He had served the Department of Atomic Energy for 36 years in different capacities and had been holding the position of Director, Fast Reactor Technology Group and Distinguished Scientist at Indira Gandhi Centre for Atomic Research (IGCAR), Kalpakkam, till April 2016. He is an expert in Power Generation and Distribution, Instrumentation and Control, Nuclear Engineering, Fast Reactor Technology and Liquid Metal Technology. He had led an R&D team in IGCAR for more than three decades. Currently, he is the Independent Director of Nuclear Power Corporation of India limited. In VJCET, he also holds the post of the Nodal Officer IEDC and Chief Executive Officer Viswajyothi Business Incubation Centre (V-BIC).  "
+        title: "Better interaction between Technical Institutions and Industry is the need of the hour. Realizing the relevance and importance of this, Industry Institute Interaction Cell(IIIC)  was formed in VJCET and had intensified its activities. Mr. Vinoj K was appointed as Convener, Industry Institute Interaction Cell with effect from 01.07.2020. He had served as Head of the Department, Department of Mechanical Engineering from 01.02.2011 to 30.11.2019. Now holding the charges of Nodal Officer, IEDC and Coordinator, NISP."
     }
     ReserchBody2 = {
         instanceID: "ReserchBody1",
@@ -65,14 +65,15 @@ class Profile extends Component {
                 <HeadingThree data={this.InchargesHeading}></HeadingThree>
                 <table id="tableformat">
                             <tr><th>NAME</th><th>DEP DESIGNATION</th><th>IIIC DESIGNATION</th></tr>
-                            <tr><td>Dr K K Rajan</td><td>Convener and Dean, IIIC</td><td>Convener,  IIIC Coordination Committee</td></tr>
+                            <tr><td>Mr Vinoj K</td><td>Convener, IIIC</td><td>Convener,  IIIC Coordination Committee</td></tr>
                             <tr><td>Mr Jiby Peter D’Cruz</td><td>Assistant Professor,ECE</td><td>Member, IIIC Coordination Committee</td></tr>
                             <tr><td>Ms  Remya  Paul </td><td>Assistant Professor, CSE</td><td>Member, IIIC Coordination Committee</td></tr>
-                            <tr><td>Mr Rakesh Jose </td><td>Assistant Professor-ME</td><td>Member, IIIC Coordination Committee</td></tr>
-                            <tr><td>Mrs Devina Vipinan </td><td>Assistant Professor, CE</td><td>Member, IIIC Coordination Committee</td></tr>
+                            <tr><td>Mr Nibin B </td><td>Assistant Professor-ME</td><td>Member, IIIC Coordination Committee</td></tr>
+                            <tr><td>Mrs Tintu Shine A L</td><td>Assistant Professor, CE</td><td>Member, IIIC Coordination Committee</td></tr>
                             <tr><td>Mr Aneesh Kurian  </td><td>Assistant Professor, EEE</td><td>Member, IIIC Coordination Committee</td></tr>
                             <tr><td>Mrs. Diana Baby </td><td>Assistant Professor, IT</td><td>Member, IIIC Coordination Committee</td></tr>
-                            <tr><td>Mr C Mavin</td><td>Placement Officer</td><td>Member, IIIC Coordination Committee</td></tr>
+                            <tr><td>Mr Nelson Mathew</td><td>Assistant Professor, MBA</td><td>Member, IIIC Coordination Committee</td></tr>
+                            <tr><td>Mr Sanoj Saju</td><td>Placement  Exe.Officer</td><td>Member, IIIC Coordination Committee</td></tr>
                 </table>
                              
                 

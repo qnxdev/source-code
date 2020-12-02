@@ -40,7 +40,7 @@ class Profile extends Component {
     }
     ReserchBody1 = {
         instanceID: "ReserchBody1",
-        title: "Innovation and Entrepreneurship Development Centre (IEDC) was established in Viswajyothi College of Engineering and Technology (VJCET) and had been successfully functioning for the last three academic years. The mission of the IEDCs is to develop institutional mechanism to create entrepreneurial culture in academic institutions to foster growth of innovation and entrepreneurship amongst the faculty and students . In VJCET, Mr. Vinoj K Associate Professor, Mechanical Engineering is appointed as the nodal officer for IEDC activities. Mr. Robin Augustine, Assistant Professor, Department of S&H, is the Assistant Nodal Officer. An IEDC Coordination Committee is constituted for the current academic year with the participation of students and faculty members from all the departments. Following are the members of the IEDC Coordination Committee for the year 2019-20. The IEDC of VJCET is recognised by Kerala Start-up Mission(KSU) and all activities are carried out with the guidance and support of them"
+        title: "Innovation and Entrepreneurship Development Centre (IEDC) was established in Viswajyothi College of Engineering and Technology (VJCET) and had been successfully functioning for the last three academic years. The mission of the IEDCs is to develop institutional mechanism to create entrepreneurial culture in academic institutions to foster growth of innovation and entrepreneurship amongst the faculty and students . In VJCET, Mr. Vinoj K Associate Professor, Mechanical Engineering is appointed as the nodal officer for IEDC activities. Mr. Robin Augustine, Assistant Professor, Department of S&H, is the Assistant Nodal Officer. An IEDC Coordination Committee is constituted for the current academic year with the participation of students and faculty members from all the departments. Following are the members of the IEDC Coordination Committee for the year 2020-21. The IEDC of VJCET is recognised by Kerala Start-up Mission(KSU) and all activities are carried out with the guidance and support of them"
     }
     ReserchBody2 = {
         instanceID: "ReserchBody1",
@@ -67,20 +67,21 @@ class Profile extends Component {
                             <tr><th>Name</th><th>Dept. Designation </th><th>IEDC Designation</th></tr>
                             <tr><td>Mr. Vinoj K</td><td>Associate Professor, ME</td><td>Nodal officer, IEDC</td></tr>
                             <tr><td>Mr. Robin  Augustine</td><td>Asst. Professor, S & H</td><td>Assistant Nodal officer, IEDC</td></tr>
-                            <tr><td>Mrs. Nivya Mary Abraham</td><td>Asst. Professor, CE</td><td>CE  Dept. Coordinator, IEDC </td></tr>
+                            <tr><td>Mrs. Nivya Mary Abraham</td><td>Asst. Professor, CE</td><td>CE Dept. Coordinator, IEDC </td></tr>
                             <tr><td>Mrs. Rini Simon</td><td>Asst. Professor, CSE</td><td>CSE Dept. Coordinator, IEDC </td></tr>
                             <tr><td>Mrs. Femy John</td><td>Asst. Professor, ECE</td><td>ECE Dept. Coordinator,IEDC</td></tr>
                             <tr><td>Mr. Jomu  M George </td><td>Asst. Professor, EEE</td><td>EEE Dept. Coordinator, IEDC</td></tr>
-                            <tr><td>Dr. Sheela V K</td><td>Associate Professor, IT</td><td>IT  Dept. Coordinator,IEDC</td></tr>
-                            <tr><td>Mr. Basil Baby </td><td>Asst. Professor, ME</td><td>ME  Dept. Coordinator,IEDC</td></tr>
-                            <tr><td>Mr. Mavin C</td><td>Placement officer</td><td>Placement and Training Cell</td></tr>
-                            <tr><td>Mr. Basil Eldhose</td><td>Student S3 EEE B</td><td>Chief Executive officer</td></tr>
-                            <tr><td>Ms. Gayathri Suresh</td><td>Student S5 ECE B</td><td>Chief Operating officer</td></tr>
-                            <tr><td>Ms. Megha Sukumar</td><td>Student S7ECE A</td><td>Chief Marketing officer</td></tr>
-                            <tr><td>Mr. Allen Peter</td><td>Student S5 IT</td><td>Chief Finance officer</td></tr>
-                            <tr><td>Mr. Eldhose Raju</td><td>Student S7 ME B</td><td>Chief Technical officer</td></tr>
-                            <tr><td>Ms.Riyamol Sara Jayan </td><td>Student S5 EEE A</td><td>Chief Creative Officer </td></tr>
-                            <tr><td>Ms. Kavya R</td><td>Student S3 CSE B</td><td>Chief Social Officer</td></tr>
+                            <tr><td>Dr. Sheela V K</td><td>Associate Professor, IT</td><td>IT Dept. Coordinator,IEDC</td></tr>
+                            <tr><td>Mr. Basil Baby </td><td>Asst. Professor, ME</td><td>ME Dept. Coordinator,IEDC</td></tr>
+                            <tr><td>Mr. Nelson Mathew </td><td>Asst. Professor, MBA</td><td>MBA Dept. Coordinator,IEDC</td></tr>
+                            <tr><td>Mr. Sanoj Saju</td><td>Placement Exe Officer</td><td>Placement Dept Coordinator,IEDC</td></tr>
+                            <tr><td>Mr. Basil Eldhose</td><td>Student S5 EEE</td><td>Chief Executive officer</td></tr>
+                            <tr><td>Ms. Gayathri Suresh</td><td>Student S7 ECE B</td><td>Chief Operating officer</td></tr>
+                            <tr><td>Ms. Devika Sunil</td><td>Student S7 CE B</td><td>Chief Marketing officer</td></tr>
+                            <tr><td>Mr. Allen Peter</td><td>Student S7 IT</td><td>Chief Finance officer</td></tr>
+                            <tr><td>Mr. Snobin Mathew </td><td>Student S7 ME A</td><td>Chief Technical officer</td></tr>
+                            <tr><td>Mr. Amal Dominic </td><td>Student MBA</td><td>Chief Creative Officer </td></tr>
+                            <tr><td>Ms. Kavya R</td><td>Student S5 CSE B</td><td>Chief Social Officer</td></tr>
                 </table> 
                              
                 

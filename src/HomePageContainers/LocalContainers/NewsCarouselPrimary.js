@@ -63,7 +63,7 @@ class NewsCarouselPrimary extends Component {
     title: "Installed Smart Classroom at Kunjipara Tribal School,Kuttampuzha",
     link: ""
   };
-
+ 
   Image5 = {
     instanceID: "NewsPrimaryOneImage",
     image: "NewsSection/BigNews/IEE2.png",
@@ -82,11 +82,85 @@ class NewsCarouselPrimary extends Component {
     //Recommended Image Size is 733px x 400px.
     width: "100%"
   };
+  Image8 = {
+    instanceID: "NewsPrimaryOneImage",
+    image: "NewsSection/BigNews/B2020.jpg",
+    //Recommended Image Size is 733px x 400px.
+    width: "100%"
+  };
+ 
+  Image9 = {
+    instanceID: "NewsPrimaryOneImage",
+    image: "NewsSection/BigNews/Pict1.jpg",
+    //Recommended Image Size is 733px x 400px.
+    width: "100%"
+  };
+  Image10 = {
+    instanceID: "NewsPrimaryOneImage",
+    image: "NewsSection/BigNews/Pict2.jpg",
+    //Recommended Image Size is 733px x 400px.
+    width: "100%"
+  }; 
+  Image11 = {
+    instanceID: "NewsPrimaryOneImage",
+    image: "NewsSection/BigNews/Pict3.jpg",
+    //Recommended Image Size is 733px x 400px.
+    width: "100%"
+  };  
+  Image12 = {
+    instanceID: "NewsPrimaryOneImage",
+    image: "NewsSection/BigNews/Pict4.jpg",
+    //Recommended Image Size is 733px x 400px.
+    width: "100%"
+  }; 
+  Title6 = {
+    instanceID: "NewsPrimaryOneTitle",
+    title: "Viswajyothi ranked 9th out of 13 in the Cybathlon Competition",
+    link: ""
+  };
+
+
+
   render() {
     //const { instanceID } = this.props.data;
 
     return (
       <Carousel>
+        <Carousel.Item>
+          <NewsImage data={this.Image10} />
+          {<a href={this.Title6.link}>
+            <Carousel.Caption>
+              <h3>{this.Title6.title}</h3>
+            </Carousel.Caption>
+          </a>}
+        </Carousel.Item>  
+        <Carousel.Item>
+          <NewsImage data={this.Image11} />
+          {<a href={this.Title6.link}>
+            <Carousel.Caption>
+              <h3>{this.Title6.title}</h3>
+            </Carousel.Caption>
+          </a>}
+        </Carousel.Item>  
+          <Carousel.Item>
+          <NewsImage data={this.Image9} />
+          {<a href={this.Title6.link}>
+            <Carousel.Caption>
+              <h3>{this.Title6.title}</h3>
+            </Carousel.Caption>
+          </a>}
+        </Carousel.Item>         
+         <Carousel.Item>
+          <NewsImage data={this.Image12} />
+          {<a href={this.Title6.link}>
+            <Carousel.Caption>
+              <h3>{this.Title6.title}</h3>
+            </Carousel.Caption>
+          </a>}
+        </Carousel.Item>        
+        <Carousel.Item>
+          <NewsImage data={this.Image8} />      
+        </Carousel.Item> 
       <Carousel.Item>
           <NewsImage data={this.Image7} />
       

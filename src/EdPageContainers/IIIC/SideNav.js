@@ -136,7 +136,7 @@ class SideNav extends Component {
             />
             <input
 
-              value="Dean's Message"
+              value="Principal's Message"
               class="button"
               onClick={this.onClickPeo}
             />
