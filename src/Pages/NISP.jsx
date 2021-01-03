@@ -9,9 +9,10 @@ import "../Pages/Research.css";
 import "../Components/Tables/tableformat.css";
 import HeadingThree from "../Components/Texts/HeadingThree";
 import a1 from "../Assets/NISP/a1.png";
+import SideNavBar from "../Components/SideNavBar";
 
 class NISP extends Component {
-    state = { showMenu: false };
+    state = { showMenu: false, select: "profile" };
     openMenu = () => {
         console.log("opening Menu");
         this.setState({ showMenu: true });
@@ -19,6 +20,7 @@ class NISP extends Component {
     closeMenu = () => {
         this.setState({ showMenu: false });
     };
+
 
     HomePageHeader = {
         instanceID: "HomePageHeader"
@@ -62,6 +64,29 @@ class NISP extends Component {
         instanceID: "FunctionHeading",
         title: "Startup Policy"
     };
+
+    SideNavSelector = [
+        {
+            id: "profile",
+            title: "Profile"
+        },
+        {
+            id: "team",
+            title: "NISP Team"
+        },
+        {
+            id: "objectives",
+            title: "Objectives"
+        },
+        {
+            id: "policy",
+            title: "Startup Policy"
+        },
+        {
+            id: "activities",
+            title: "Activities"
+        },
+    ]
 
     TableData = [
         {
@@ -132,69 +157,91 @@ class NISP extends Component {
         },
     ]
 
+    handleSelect = (id) => {
+        this.setState({ select: id });
+    }
     render() {
         return (
             <div className="HomePage NispPage">
                 <Header data={this.HomePageHeader} openMenuFunction={this.openMenu} />
                 <HeadingOne data={this.NispHeading} />
-                <HeadingThree data={this.ProfileHeading} />
-                <BodyThree data={this.IedcBody1} /><br />
-                <HeadingThree data={this.InchargesHeading} />
+                <SideNavBar selector={this.state.select} selectorList={this.SideNavSelector} handleSelect={this.handleSelect}>
+                    {this.state.select === this.SideNavSelector[0].id &&
+                        <div className="NispSideBarItem">
+                            <HeadingThree data={this.ProfileHeading} />
+                            <BodyThree data={this.IedcBody1} /><br />
+                        </div>
+                    }
+                    {this.state.select === this.SideNavSelector[1].id &&
+                        <div className="NispSideBarItem">
+                            <HeadingThree data={this.InchargesHeading} />
+                            <table id="tableformat">
+                                <tbody>
+                                    <tr className="NispMobileRow"><th>Name</th><th>DEPT. DESIGNATION</th><th>DESIGNATION</th></tr>
+                                    {this.TableData.map(i =>
 
-                <div className="inner-para">
-                    <table id="tableformat">
-                        <tr><th>Name</th><th>DEP DESIGNATION</th><th>DESIGNATION</th></tr>
-                        {this.TableData.map(i =>
+                                        <tr key={this.TableData.indexOf(i)}>
+                                            <td>{i.name}</td>
+                                            <td>{i.dep}</td>
+                                            <td>{i.desig}</td>
+                                        </tr>
+                                    )}
+                                </tbody>
 
-                            <tr key={this.TableData.indexOf(i)}>
-                                <td>{i.name}</td>
-                                <td>{i.dep}</td>
-                                <td>{i.desig}</td>
-                            </tr>
-                        )}
+                            </table>
 
-                    </table>
-                    <div className="NispObjectiveHeading">
-                        <HeadingThree data={this.ObjectiveHeading} />
-                    </div>
-                    <ul>
-                        {this.ObjectiveData.map(i =>
-                            <li key={this.ObjectiveData.indexOf(i)}>
-                                <p>
-                                    <BodyOneJustified data={i} />
-                                </p>
-                            </li>
-                        )}
-                    </ul>
-                    <div className="NispObjectiveHeading">
-                        <HeadingThree data={this.FunctionHeading} />
-                    </div>
-                    <div className="NispStartUp">
-                        <h4>View Startup Policy: </h4>
-                        <a href="https://drive.google.com/file/d/1bUK8EJeCr2TTjDPX-0ho1ch-_saHT4Gl/view?usp=sharing" className="NispButton" target="_blank">
-                            <h4>Open Policy</h4>
-                        </a>
-                    </div>
-                    <div className="NispObjectiveHeading">
-                        <HeadingThree data={this.CompanyHeading} />
-
-                    </div>
-                    <ul className="NispActivitiesList">
-                        {this.ActivitiesData.map(i =>
-                            <div key={this.ObjectiveData.indexOf(i)} className="NispActivities">
-                                <li>
-                                    <p>
-                                        <BodyOneJustified data={i} />
-                                    </p>
-                                    {i.img && <div className="NispActivitiesImg">
-                                        <img src={i.img} alt="" />
-                                    </div>}
-                                </li>
+                        </div>
+                    }
+                    {this.state.select === this.SideNavSelector[2].id &&
+                        <div className="NispSideBarItem">
+                            <div className="NispObjectiveHeading">
+                                <HeadingThree data={this.ObjectiveHeading} />
                             </div>
-                        )}
-                    </ul>
-                </div>
+                            <ul>
+                                {this.ObjectiveData.map(i =>
+                                    <li key={this.ObjectiveData.indexOf(i)}>
+                                        <BodyOneJustified data={i} />
+                                    </li>
+                                )}
+                            </ul>
+                        </div>
+                    }
+                    {this.state.select === this.SideNavSelector[3].id &&
+                        <div className="NispSideBarItem">
+                            <div className="NispObjectiveHeading">
+                                <HeadingThree data={this.FunctionHeading} />
+                            </div>
+                            <div className="NispStartUp">
+                                <h4>View Startup Policy: </h4>
+                                <a href="https://drive.google.com/file/d/1bUK8EJeCr2TTjDPX-0ho1ch-_saHT4Gl/view?usp=sharing" className="NispButton" target="_blank">
+                                    <h4>Open Policy</h4>
+                                </a>
+                            </div>
+                        </div>
+                    }
+                    {this.state.select === this.SideNavSelector[4].id &&
+                        <div className="NispSideBarItem">
+                            <div className="NispObjectiveHeading">
+                                <HeadingThree data={this.CompanyHeading} />
 
+                            </div>
+                            <ul className="NispActivitiesList">
+                                {this.ActivitiesData.map(i =>
+                                    <div key={this.ObjectiveData.indexOf(i)} className="NispActivities">
+                                        <li>
+                                            <p>
+                                                <BodyOneJustified data={i} />
+                                            </p>
+                                            {i.img && <div className="NispActivitiesImg">
+                                                <img src={i.img} alt="" />
+                                            </div>}
+                                        </li>
+                                    </div>
+                                )}
+                            </ul>
+                        </div>
+                    }
+                </SideNavBar>
 
                 <Footer data={this.HomePageFooter} />
                 {this.state.showMenu ? (

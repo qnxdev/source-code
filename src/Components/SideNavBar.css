@@ -1,0 +1,64 @@
+.SideNavBar{
+    display: flex;
+    padding: 20px;
+}
+
+.SideNavBarSelector{
+    width: 20%;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin: 20px;
+    height: min-content;
+}
+
+.SideNavBarContent{
+    width: 80%;
+    padding: 20px;;
+}
+
+.SideNavBarSelectorItem{
+    background-color:  #800000;
+    color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
+.SideNavBarSelectorItem h4{
+    margin: 0;
+}
+
+.SideNavBarSelector .NavSelected{
+    border: 3px solid #800000;
+    background-color: #f0f0f0;
+    color: #800000;
+    padding: 12px;
+}
+
+@media(max-width: 720px){
+
+    .SideNavBar{
+        flex-direction: column;
+        align-items: center;
+     }
+    .SideNavBarSelector{
+        width: 90%;
+        padding: 10px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .SideNavBarSelectorItem{
+        margin: 3px;
+        min-width: 40%;
+        padding: 10px;
+    }
+    .SideNavBarContent{
+        width: 100%;
+    }
+    .SideNavBarSelector .NavSelected{
+        padding: 8px;
+        border: 2px solid #800000;
+
+    }
+}

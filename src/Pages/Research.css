@@ -48,3 +48,13 @@
 
 }
 
+@media(max-width: 720px){
+    .NispMobileRow{
+        display: flex;
+        flex-direction: column;
+    }
+    .NispMobileRow th{
+        margin: 0.5px;
+    }
+}
+
