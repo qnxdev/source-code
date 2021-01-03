@@ -7,16 +7,16 @@ class CarouselTwo extends Component {
   data = [
     {
       instanceID: this.props.data.instanceID + "CustomOne",
+      title: <a href="https://vjcet.org/#/newstwo" target="_blank" rel="noopener noreferrer"><font color="FFFFF" size="4">Covid 19, Institutional Plan and SOP</font></a>
+    },{
+      instanceID: this.props.data.instanceID + "CustomOne",
       title: <a href="https://vjcet.org/#/newsthree" target="_blank" rel="noopener noreferrer"><font color="FFFFF" size="4">WANTED FACULTY (Artificial Intelligence Department)</font></a>
     },
-    {
-      instanceID: this.props.data.instanceID + "CustomOne",
-      title: <a href="https://vjcet.org/#/newstwo" target="_blank" rel="noopener noreferrer"><font color="FFFFF" size="4">Caution Deposit and Refundable Deposit of 2016-20 Students..</font></a>
-    },
+    {/*
     {
       instanceID: this.props.data.instanceID + "CustomOne",
       title: <a href="https://vjcet.org/#/newsseven" target="_blank" rel="noopener noreferrer"><font color="FFFFF" size="4">ONE WEEK AICTE SPONSORED STTP ON “IoT BASED MANUFACTURING AND DESIGN - CHALLENGES AND OPPORTUNITY</font></a>
-    },
+    }*/},
     {
       instanceID: this.props.data.instanceID + "CustomOne",
       title: <a href="https://vjcet.org/#/newsone" target="_blank" rel="noopener noreferrer"><font color="FFFFF" size="4">KTU 2016-2020 Batch Final Semester Results Published</font></a>
@@ -25,10 +25,10 @@ class CarouselTwo extends Component {
       instanceID: this.props.data.instanceID + "CustomOne",
       title: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBieRfZ4KoIqGB2hDCMFnOnmT9PGQxfb1XNZ-VqkPahmn25w/formResponse" target="_blank" rel="noopener noreferrer"><font color="FFFFF" size="4">VISWAJYOTHI WELLNESS SURVEY DURING COVID 19</font></a>
     }, 
-    /*{
+    {
       instanceID: this.props.data.instanceID + "CustomOne",
       title: <a href="http://117.239.154.84:8001/ktuexam/index.html" target="_blank" rel="noopener noreferrer"><font color="FFFFF" size="4">KTU B.Tech Examination</font></a>
-    },*/
+    },
     {
       instanceID: this.props.data.instanceID + "CustomOne",
       title: <a href="https://vjcet.org/#/newsfive" target="_blank" rel="noopener noreferrer"><font color="FFFFF" size="4">B.Tech Fee Payment</font></a>

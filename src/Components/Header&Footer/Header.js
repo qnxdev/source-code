@@ -138,6 +138,11 @@ class Header extends Component {
     link: "/iqac"
   };
 
+  Link12 = {
+    instanceID: "HeaderLink11",
+    title: "NISP",
+    link: "/nisp"
+  };
   LineHeading = {
     instanceID: "LineHeading"
   };

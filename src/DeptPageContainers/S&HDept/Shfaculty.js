@@ -6,7 +6,7 @@ class Faculty extends Component {
     instanceID: "Cefaculty1",
     image: "Allstaffphoto/SH/FAC/242.jpg",
     width: "50%",
-    name: <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/110/242.jpg" target="_blank" rel="noopener noreferrer">Mrs. Ann Neetha Sabu</a>,
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC101" target="_blank" rel="noopener noreferrer">Mrs. Ann Neetha Sabu</a>,
     content: "Associate Professor"
   };
   Cefaculty2 = {
@@ -20,21 +20,21 @@ class Faculty extends Component {
     instanceID: "Cefaculty3",
     image: "Allstaffphoto/SH/FAC/SHFAC105.jpg",
     width: "50%",
-    name: <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/85/SHFAC105.jpg" target="_blank" rel="noopener noreferrer">Mrs. Viji George</a>,
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC105" target="_blank" rel="noopener noreferrer">Mrs. Viji George</a>,
     content: "Head of the Department"
   };
   Cefaculty4 = {
     instanceID: "Cefaculty4",
     image: "Allstaffphoto/SH/FAC/246.jpg",
     width: "50%",
-    name: <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/109/246.jpg" target="_blank" rel="noopener noreferrer">Mrs. Anila Elizabeth John</a>,
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC106" target="_blank" rel="noopener noreferrer">Mrs. Anila Elizabeth John</a>,
     content: "Assistant Professor"
   };
   Cefaculty5 = {
     instanceID: "Cefaculty5",
     image: "Allstaffphoto/SH/FAC/SHFAC107.jpg",
     width: "50%",
-    name: <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/112/SHFAC107.jpg" target="_blank" rel="noopener noreferrer">Mrs. Rose Mary Baby</a>,
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC107" target="_blank" rel="noopener noreferrer">Mrs. Rose Mary Baby</a>,
     content: "Assistant Professor"
   };
   
@@ -42,28 +42,28 @@ class Faculty extends Component {
     instanceID: "Cefaculty7",
     image: "Allstaffphoto/SH/FAC/249.jpg",
     width: "50%",
-    name: <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/111/249.jpg" target="_blank" rel="noopener noreferrer">Mrs. Jinta Jose</a>,
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC109" target="_blank" rel="noopener noreferrer">Mrs. Jinta Jose</a>,
     content: "Assistant Professor"
   };
   Cefaculty8 = {
     instanceID: "Cefaculty8",
     image: "Allstaffphoto/SH/FAC/SHFAC110.jpg",
     width: "50%",
-    name:  <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/113/SHFAC110.jpg" target="_blank" rel="noopener noreferrer">Mrs. Ansu Ann Abraham</a>,
+    name:  <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC110" target="_blank" rel="noopener noreferrer">Mrs. Ansu Ann Abraham</a>,
     content: "Assistant Professor"
   };
   Cefaculty9 = {
     instanceID: "Cefaculty",
     image: "Allstaffphoto/SH/FAC/251.jpg",
     width: "50%",
-    name:  <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/114/251.jpg" target="_blank" rel="noopener noreferrer">Mrs. Manu Sebastiann</a>,
+    name:  <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC111" target="_blank" rel="noopener noreferrer">Mrs. Manu Sebastiann</a>,
     content: "Assistant Professor"
   };
   Cefaculty10 = {
     instanceID: "Cefaculty10",
     image: "Allstaffphoto/SH/FAC/252.jpg",
     width: "50%",
-    name: "Mr. Tony Augustine",
+    name:  <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC112" target="_blank" rel="noopener noreferrer">Mr. Tony Augustine</a>,
     content: "Assistant Professor(on Leave-Ph.D)"
   };
   
@@ -71,14 +71,14 @@ class Faculty extends Component {
     instanceID: "Cefaculty12",
     image: "Allstaffphoto/SH/FAC/SHFAC114.jpg",
     width: "50%",
-    name:  <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/115/SHFAC114.jpg" target="_blank" rel="noopener noreferrer">Mr. Biju George</a>,
+    name:  <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC114" target="_blank" rel="noopener noreferrer">Mr. Biju George</a>,
     content: "Assistant Professor"
   };
   Cefaculty14 = {
     instanceID: "Cefaculty14",
     image: "Allstaffphoto/SH/FAC/255.jpg",
     width: "50%",
-    name: <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/89/255.jpg" target="_blank" rel="noopener noreferrer">Mrs. Deenu Baby</a>,
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC115" target="_blank" rel="noopener noreferrer">Mrs. Deenu Baby</a>,
     content: "Assistant Professor"
   };
   
@@ -86,35 +86,35 @@ class Faculty extends Component {
     instanceID: "Cefaculty16",
     image: "Allstaffphoto/SH/FAC/329.jpg",
     width: "50%",
-    name: <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/90/329.jpg" target="_blank" rel="noopener noreferrer">Mrs. Dany Sebatian</a>,
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC122" target="_blank" rel="noopener noreferrer">Mrs. Dany Sebatian</a>,
     content: "Assistant Professor"
   };
   Cefaculty17 = {
     instanceID: "Cefaculty17",
     image: "Allstaffphoto/SH/FAC/328.png",
     width: "50%",
-    name: <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/91/328.png" target="_blank" rel="noopener noreferrer">Mrs. Ashly Jacob</a>,
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC123" target="_blank" rel="noopener noreferrer">Mrs. Ashly Jacob</a>,
     content: "Assistant Professor"
   };
   Cefaculty18 = {
     instanceID: "Cefaculty18",
     image: "Allstaffphoto/SH/FAC/331.jpg",
     width: "50%",
-    name: <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/92/331.jpg" target="_blank" rel="noopener noreferrer">Mr. Robin K. Augustine</a>,
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC124" target="_blank" rel="noopener noreferrer">Mr. Robin K. Augustine</a>,
     content: "Assistant Professor"
   };
   Cefaculty19 = {
     instanceID: "Cefaculty19",
     image: "Allstaffphoto/SH/FAC/342.jpg",
     width: "50%",
-    name:  <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/116/342.jpg" target="_blank" rel="noopener noreferrer">Mrs. Anitha Rajan</a>,
+    name:  <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC126" target="_blank" rel="noopener noreferrer">Mrs. Anitha Rajan</a>,
     content: "Assistant Professor"
   };
   Cefaculty20 = {
     instanceID: "Cefaculty20",
     image: "Allstaffphoto/SH/FAC/johnodakkal.jpg",
     width: "50%",
-    name:  <a href="http://117.239.154.84:8000/profile/FacultyProfileWeb/117/johnodakkal.jpg" target="_blank" rel="noopener noreferrer">Mr.	John Odackal</a>,
+    name:  <a href="h https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHSTF101" target="_blank" rel="noopener noreferrer">Mr.	John Odackal</a>,
     content: "Assistant Professor"
   };
   render() {

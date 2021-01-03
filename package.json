@@ -2,7 +2,7 @@
   "name": "vjcetwebadmin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://qnxdev.github.io/vb",
+  "homepage": "https://vjcetwebadmin.github.io",
   "dependencies": {
     "@bumaga/tabs": "^0.2.0",
     "apexcharts": "^3.15.6",

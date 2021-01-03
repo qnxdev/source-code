@@ -8,19 +8,19 @@ export default function Notify() {
         setNotifier(false);
     }
     const extln = e => {
-        window.open('https://admission.vjcet.ac.in/','_blank');
+        window.open('http://117.239.154.84:8001/ktuexam/index.html','_blank');
         toggler(e);
     }
-    /*const head = "KTU B.Tech Examination";
-    const content = "Information regarding Examination";        http://117.239.154.84:8001/ktuexam/index.html
+    const head = "KTU B.Tech Examination";
+    const content = "Information regarding Examination"; /*  https://admission.vjcet.ac.in/     http://117.239.154.84:8001/ktuexam/index.html
     
     
         const head = "B.Tech Fee Payment";
     const content = "Information regarding fee payment";
         
-     */   
+       
         const head = "B.Tech Artificial Intelligence (AI)";
-    const content = "Viswajyothi is proud to introduce a new B.Tech Programme in Artificial Intelligence";
+    const content = "Viswajyothi is proud to introduce a new B.Tech Programme in Artificial Intelligence";*/ 
     
     if (notify) {
         return (

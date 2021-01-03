@@ -46,7 +46,7 @@ class Newstwo extends React.Component {
     };
     NewsTitle1 = {
         instanceID: "NewsTitle1",
-        title: "Caution Deposit and Refundable Deposit of 2016-20 batch"
+        title: "Covid 19, Institutional Plan and SOP"
     };
     
     NewsContent1={
@@ -84,13 +84,16 @@ class Newstwo extends React.Component {
                     <div class="absolute">
                          
              </div>
-                   
+               
                    
                     
                     
                     <HeadingOne data={this.NewsTitle1} className="Heading" />
-                    
-                     <iframe src="https://vjcet.org/downloads/news/CDRD.pdf" width="90%" height="600" title="CDRD" align="center"></iframe> 
+                    <p><h4>Institutional Plan</h4></p>
+                     <iframe src="https://vjcet.org/downloads/news/InstPlan.pdf" width="90%" height="700" title="Institutional Plan" align="center"></iframe> 
+                     <br></br>
+                     <p><h4>Standard Operating Procedures</h4></p>
+                     <iframe src="https://vjcet.org/downloads/news/SOP.pdf" width="90%" height="700" title="Standard Operating Procedures" align="center"></iframe> 
                    {/*  <a href="https://vjcet.org/downloads/news/CEFDP.pdf"><ImageOne data={this.NewsImagedata3}></ImageOne></a> */}
                  
                    

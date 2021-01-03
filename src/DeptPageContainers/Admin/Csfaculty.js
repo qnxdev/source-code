@@ -6,14 +6,14 @@ class CSFaculty extends Component {
     instanceID: "Cefaculty1",
     image: "Allstaffphoto/EE/FAC/352.jpg",
     width: "50%",
-    name: "Dr. K.K Rajan",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=EEFAC129" target="_blank" rel="noopener noreferrer">Dr. K.K Rajan</a>,
     content: "Principal"
   };
   Cefaculty2 = {
     instanceID: "Cefaculty2",
     image: "Allstaffphoto/EC/FAC/Somypmathew.JPEG",
     width: "50%",
-    name: "Mr. Somy P Mathew",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ECFAC107" target="_blank" rel="noopener noreferrer">Mr. Somy P Mathew</a>,
     content: "Vice-Principal"
   };
   Cefaculty3 = {

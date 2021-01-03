@@ -90,7 +90,7 @@ class keyfunct extends React.Component {
                    <br />
                    <HeadingThree data={this.ServerTitle} className="Heading" />
                    <p align="center"> <ImageOne data={this.PImagedata} /></p>
-                   <p align="center"><b> Dr. K.K Rajan [<a href="https://vjcet.org/downloads/keyfunctionaries/Principal_Profile.pdf" target="_blank" rel="noopener noreferrer">Profile</a>]</b></p> 
+                   <p align="center"><b> Dr. K.K Rajan [<a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=EEFAC129" target="_blank" rel="noopener noreferrer">Profile</a>]</b></p> 
                    <BodyOneJustified data={this.CCCContent3} />
 
                 </div>
