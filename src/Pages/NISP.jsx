@@ -81,7 +81,7 @@ class NISP extends Component {
             dep: "Assistant Professor, ECE",
             desig: "Member"
         }, {
-            name: "Assistant Professor, S&HAssistant Professor, ",
+            name: "Smt. Jinta Jose ",
             dep: "Assistant Professor, S&H",
             desig: "Member"
         }, {
