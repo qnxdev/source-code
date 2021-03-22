@@ -50,7 +50,7 @@ ActivitiesHeading = {
           <HeadingThree data={this.InchargesHeading} /> 
           <table id="tableformat">
                             <tr><th>POST</th><th>NAME</th></tr>
-                            <tr><td>Chariman – ISTE Chapter</td><td>Dr. Josephkunju Paul C, Principal</td></tr>
+                            <tr><td>Chariman – ISTE Chapter</td><td>Dr. K.K Rajan, Principal</td></tr>
                             <tr><td>Secretary</td><td>Mr. Prince Kurian, AP IT</td></tr>
                             <tr><td>Jn. Secretary</td><td>Mr. Krishnendu K, AP ECE</td></tr>
                             <tr><td>Treasurer &Student Advisor</td><td>Ms. Sabitha Raju, AP, CSE</td></tr>

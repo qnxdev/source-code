@@ -164,7 +164,7 @@ class nss extends React.Component {
     };
     EventContent1 = {
         instanceID: " EventContent1",
-        title: "On 28 April 2018, school supplies including a bag, umbrella and necessary stationery were distributed at Kavana L P school. The function is inaugurated by Mr. Jordy, President Avoly Gramapanchayat and Presided by Prof. (Dr) Josephkunju Paul C., Principal VJCET."
+        title: "On 28 April 2018, school supplies including a bag, umbrella and necessary stationery were distributed at Kavana L P school. The function is inaugurated by Mr. Jordy, President Avoly Gramapanchayat and Presided by Prof. (Dr) Josephkunju Paul C."
     }
     EventContent2 = {
         instanceID: " EventContent2",

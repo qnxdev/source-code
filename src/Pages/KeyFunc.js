@@ -52,7 +52,7 @@ class keyfunct extends React.Component {
     }
     CCCContent3 = {
         instanceID: "CCCContent3",
-        title: "VJCET commands a formidable position amongst the various engineering colleges in the state. This is achieved by excellent infrastructural facilities combined with the team work of enthusiastic management, dedicated faculty members, committed laboratory; workshop staff members, sincere administrative staff members, motivating alumni and dynamic students. Excellent track records in the University examinations and the considerable number of placements reveal the effective co-ordinationof all these resources. We are striving hard to make the vision of the institution “Moulding Engineers par Excellence with integrity, fairness and human values” a reality. All our six Engineering Branches are NBA accredited and we are in the process of assessment for NAAC accreditation. To effectively address the difficulties faced in the post Covid-19 scenario VJCET has come up with online education system.The software Microsoft team was installed and made available for all faculty members and students.The online education is successfully being carried out for all the courses now. Focus of the institution currently is on achieving academic excellence and 100% placement."
+        title: "VJCET commands a formidable position amongst the various engineering colleges in the state. This is achieved by excellent infrastructural facilities combined with the team work of enthusiastic management, dedicated faculty members, committed laboratory & workshop staff members, sincere administrative staff members, motivating alumni and dynamic students. Excellent track records in the University examinations and the considerable number of placements reveal the effective co-ordination of all these resources.   We are striving hard to make the vision of the institution “Moulding  Professionals par Excellence with integrity, fairness and human values” a reality.  Our six Engineering  Branches are  NBA accredited  and we are in the process of assessment  for NAAC accreditation. To effectively address the difficulties faced   in the post   Covid-19 scenario   VJCET has come up  with online education system.  The  software  Microsoft team was  installed and made available for all faculty members and  students. Online education along with contact classes are  successfully being carried out for all the  courses now. Focus of the institution currently  is on achieving   academic excellence  and 100%  placement."
     }
     CCCImagedata = {
         instanceID: "CCCVjcImage",
@@ -80,12 +80,12 @@ class keyfunct extends React.Component {
                     <HeadingOne data={this.CCCNATitle} className="Heading" />
                     <HeadingThree data={this.CCCTitle} className="Heading" />
                    <p align="center"> <ImageOne data={this.CCCImagedata} /></p>
-                   <p align="center"><b> Msgr. Dr. Cherian Kanjirakombil</b></p> 
+                   <p align="center"><b> Msgr. Dr. Cherian Kanjirakombil [<a href="https://vjcet.org/downloads/keyfunctionaries/RevFrCherianK.pdf" target="_blank" rel="noopener noreferrer">Profile</a>]</b></p> 
                    <BodyOneJustified data={this.CCCContent1} />
                    <br />
                    <HeadingThree data={this.WifiTitle} className="Heading" />
                    <p align="center"> <ImageOne data={this.DImagedata} /></p>
-                   <p align="center"><b> Rev. Fr. Paul Nedumpurath</b></p> 
+                   <p align="center"><b> Rev. Fr. Paul Nedumpurath [<a href="https://vjcet.org/downloads/keyfunctionaries/RevFrPaulN.pdf" target="_blank" rel="noopener noreferrer">Profile</a>]</b></p> 
                    <BodyOneJustified data={this.CCCContent2} />
                    <br />
                    <HeadingThree data={this.ServerTitle} className="Heading" />

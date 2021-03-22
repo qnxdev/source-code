@@ -120,31 +120,30 @@ class nss extends React.Component {
                     <BodyOneJustified data={this.AboutNssContent} />
                     <br />
                     <table id="tableformat">
-                           
-                   <tr><td>1</td><td> Rev. Fr Paul Nedumpurath</td><td>Director</td></tr>
-                   <tr><td>2</td><td> Rev. Dr. George Thanathuparambil</td><td>Member, Board of Trustees,DTET </td></tr> 
-                            <tr><td>3</td><td> Dr. K.K Rajan</td><td>Principal </td></tr>
-                            <tr><td>4</td><td> Sri. Somy P Mathew	</td><td> Vice Principal</td></tr>
-			    <tr><td>5</td><td> Sri. Sunny Jacob</td><td> Administrative Officer</td></tr>
-                <tr><td>6</td><td> Dr. Anishin Raj M M</td><td> Dean R&D</td></tr>
-                            <tr><td>7</td><td> Smt. Shine George</td><td> HOD ( CE)</td></tr>
-                            <tr><td>8</td><td> Dr. Shunmugesh K</td><td> HOD (ME)</td></tr>
-			    <tr><td>9</td><td> Dr. Aruna B</td><td> HOD (EEE)</td></tr>
-                            <tr><td>10</td><td> Smt. Smitha Cyriac</td><td> HOD (ECE)</td></tr>
-                            <tr><td>11</td><td> Sri.Amel Austine</td><td> HOD ( CSE)</td></tr>
-			    <tr><td>12</td><td> Smt. Anju Susan George</td><td> HOD (IT)</td></tr>
-                            <tr><td>13</td><td> Smt. Viji George </td><td> HOD (S& H)</td></tr>
-                            <tr><td>14</td><td> Dr. Geo Baby	</td><td>HOD ( MBA) </td></tr>
-			    <tr><td>15</td><td> Adv. K. Francis George</td><td> Chairman, Kerala Feeds Ltd</td></tr>
-			    <tr><td>16</td><td> Sri. Baby George</td><td> Representative, Industrialist  </td></tr>
-			    <tr><td>17</td><td> Sri. Issac Joseph Kottukapilly</td><td> Representative, Industrialist</td></tr>
-			    <tr><td>18</td><td> Sri Noble Mathew </td><td>Representative, Local Community </td></tr>
-			    <tr><td>19</td><td> Sri. Sean Santosh Joseph</td><td> Student representative</td></tr>
-			    <tr><td>20</td><td> Sri. Mridul George</td><td> Alumni Representative</td></tr>
-			    <tr><td>21</td><td> Dr. Anoop C K</td><td> IQAC Coordinator</td></tr>
-
-
-                           
+                    <tr><td>1</td><td> Rev. Msgr. Dr. Cherian Kanjirakombil</td><td>Manager</td></tr>        
+                   <tr><td>2</td><td> Rev. Fr Paul Nedumpurath</td><td>Director</td></tr>                   
+                    <tr><td>3</td><td> Dr. K.K Rajan</td><td>Principal </td></tr>
+                    <tr><td>4</td><td> Sri. Somy P Mathew	</td><td> Vice Principal</td></tr>
+                    <tr><td>5</td><td> Dr. Anoop C K</td><td>Professor & IQAC Coordinator</td></tr>
+                    <tr><td>6</td><td> Dr. Cyriac Joseph Vempala</td><td> Professor & Dean</td></tr>			    
+                    <tr><td>7</td><td> Dr. Anishin Raj M M</td><td>Professor & Dean R&D</td></tr>
+                     <tr><td>8</td><td> Smt. Shine George</td><td> HOD ( CE)</td></tr>
+                     <tr><td>9</td><td> Dr. Shunmugesh K</td><td> HOD (ME)</td></tr>
+			        <tr><td>10</td><td> Dr. Aruna B</td><td> HOD (EEE)</td></tr>
+                     <tr><td>11</td><td> Smt. Smitha Cyriac</td><td> HOD (ECE)</td></tr>
+                     <tr><td>12</td><td> Sri.Amel Austine</td><td> HOD ( CSE)</td></tr>
+			        <tr><td>13</td><td> Smt. Anju Susan George</td><td> HOD (IT)</td></tr>
+                    <tr><td>14</td><td> Smt. Viji George </td><td> HOD (S& H)</td></tr>
+                    <tr><td>15</td><td> Dr. Geo Baby	</td><td>HOD ( MBA) </td></tr>
+                    <tr><td>16</td><td> Adv. K. Francis George</td><td> Secretary, DTET</td></tr>
+                    <tr><td>17</td><td> Rev. Dr. George Thanathuparambil</td><td>Member, Board of Trustees,DTET </td></tr>
+                    <tr><td>18</td><td> Sri. Sunny Jacob</td><td> Administrative Officer</td></tr> 
+                    <tr><td>19</td><td> Sri. Baby George</td><td> Representative, Industrialist  </td></tr>
+                    <tr><td>20</td><td> Sri. Issac Joseph Kottukapilly</td><td> Representative, Industrialist</td></tr>
+                    <tr><td>21</td><td> Sri Noble Mathew </td><td>Representative, Local Community </td></tr>
+                    <tr><td>22</td><td> Sri. Sean Santosh Joseph</td><td> Student representative</td></tr>
+                    <tr><td>23</td><td> Sri. Mridul George</td><td> Alumni Representative</td></tr>
+		                          
  </table> 
             <BodyOneJustified data={this.aboutiqaccontent1} />
             <br/>

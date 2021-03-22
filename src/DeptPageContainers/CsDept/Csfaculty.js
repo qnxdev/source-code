@@ -7,20 +7,20 @@ class CSFaculty extends Component {
     image: "Allstaffphoto/CS/FAC/73.jpg",
     width: "50%",
     name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=CSFAC109" target="_blank" rel="noopener noreferrer">Mr. Amel Austine</a>,
-    content: "Head of  Department"
+    content: "Asst. Prof. & HOD"
   };
   Cefaculty28 = {
     instanceID: "Cefaculty28",
     image: "Allstaffphoto/CS/FAC/CSFAC26.JPG",
     width: "50%",
-    name: <a href="https://vjcet.org/downloads/drlal.pdf" target="_blank" rel="noopener noreferrer">Dr. Janhan Lal P S</a>,
+    name: <a href="https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=CSFAC131" target="_blank" rel="noopener noreferrer">Dr. Janhan Lal P S</a>,
     content: "Professor"
   };
   Cefaculty29 = {
     instanceID: "Cefaculty29",
     image: "Allstaffphoto/CS/FAC/CSFAC29.jpg",
     width: "55%",
-    name: <a  href="https://vjcet.org/downloads/KKK2020.pdf" target="_blank" rel="noopener noreferrer">Dr. K K Kuriakose</a>,
+    name: <a  href="https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=CSFAC132" target="_blank" rel="noopener noreferrer">Dr. K K Kuriakose</a>,
     content: "Professor"
   };
   Cefaculty2 = {
@@ -69,8 +69,8 @@ class CSFaculty extends Component {
     instanceID: "Cefaculty11",
     image: "Allstaffphoto/CS/FAC/74.jpg",
     width: "50%",
-    name: "Mr. Jobin Jose ",
-    content: "Assistant Professor"
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=CSFAC110" target="_blank" rel="noopener noreferrer">Mr. Jobin Jose</a>,
+    content: "Assistant Professor (On leave PhD"
   };
   Cefaculty12 = {
     instanceID: "Cefaculty12",
@@ -182,7 +182,7 @@ class CSFaculty extends Component {
     instanceID: "Cefaculty27",
     image: "Allstaffphoto/CS/FAC/sreejaspillai.JPEG",
     width: "50%",
-    name: "Mrs. Sreeja S Pillai(on-leave Ph.D)",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=CSFAC122" target="_blank" rel="noopener noreferrer">Mrs. Sreeja S Pillai(on-leave Ph.D)</a>,
     content: "Assistant Professor"
   };
   render() {

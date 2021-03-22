@@ -20,119 +20,112 @@ class CSFaculty extends Component {
     instanceID: "Cefaculty3",
     image: "Allstaffphoto/ADM/ADM/sunnyjacob.jpg",
     width: "50%",
-    name: "Mr. Sunny Jacob",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF101" target="_blank" rel="noopener noreferrer">Mr. Sunny Jacob</a>,
     content: "Administrative Officer (HG)"
   };
   Cefaculty4 = {
     instanceID: "Cefaculty4",
     image: "Allstaffphoto/ADM/ADM/reenaemmanuel.jpeg",
     width: "50%",
-    name: "Mrs. Reena Emmanuel",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF103" target="_blank" rel="noopener noreferrer">Mrs. Reena Emmanuel</a>,
     content: "Head Clerk"
   };
   Cefaculty5 = {
     instanceID: "Cefaculty5",
     image: "Allstaffphoto/ADM/ADM/sijumonfrancis.JPEG",
     width: "50%",
-    name: "Mr. Sijumon Francis",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF104" target="_blank" rel="noopener noreferrer">Mr. Sijumon Francis</a>,
     content: "Public Relation Officer"
   };
   Cefaculty6 = {
     instanceID: "Cefaculty6",
     image: "Allstaffphoto/ADM/ADM/rajeshgeorge.JPEG",
     width: "50%",
-    name: "Mr. Rajesh George",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF105" target="_blank" rel="noopener noreferrer">Mr. Rajesh George</a>,
     content: "Jr. Superintendent"
   };
   Cefaculty7 = {
     instanceID: "Cefaculty7",
     image: "Allstaffphoto/ADM/ADM/jismygeorge.JPEG",
     width: "50%",
-    name: "Mrs. Jismy George",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF106" target="_blank" rel="noopener noreferrer">Mrs. Jismy George</a>,
     content: "Jr. Superintendent"
   };
   Cefaculty8 = {
     instanceID: "Cefaculty8",
     image: "Allstaffphoto/ADM/ADM/jerrinskjoy.JPEG",
     width: "50%",
-    name: "Mr. Jerrins K.Joy ",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF107" target="_blank" rel="noopener noreferrer">Mr. Jerrins K.Joy</a>,
     content: "Finance Officer"
   };
   Cefaculty9 = {
     instanceID: "Cefaculty",
     image: "Allstaffphoto/ADM/ADM/anithamathew.JPEG",
     width: "50%",
-    name: "Mrs. Anitha Mathew",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF108" target="_blank" rel="noopener noreferrer">Mrs. Anitha Mathew</a>,
     content: "UDC (HG)"
   };
   Cefaculty10 = {
     instanceID: "Cefaculty10",
     image: "Allstaffphoto/ADM/ADM/shijajose.JPEG",
     width: "50%",
-    name: "Mrs. Shija Jose",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF109" target="_blank" rel="noopener noreferrer">Mrs. Shija Jose</a>,
     content: "UDC"
   };
   Cefaculty11 = {
     instanceID: "Cefaculty11",
     image: "Allstaffphoto/ADM/ADM/arunbobyt.JPEG",
     width: "50%",
-    name: "Mr. Arun Bobby T",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF110" target="_blank" rel="noopener noreferrer">Mr. Arun Bobby T</a>,
     content: "UDC"
   };
   Cefaculty12 = {
     instanceID: "Cefaculty12",
     image: "Allstaffphoto/ADM/ADM/jillsvinu.jpeg",
     width: "50%",
-    name: "Mrs. Jills Vinu",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF111" target="_blank" rel="noopener noreferrer">Mrs. Jills Vinu</a>,
     content: "UDC"
   };
   Cefaculty13 = {
     instanceID: "Cefaculty13",
     image: "Allstaffphoto/ADM/ADM/nobymathew.jpeg",
     width: "50%",
-    name: "Mr. Noby Mathew",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF112" target="_blank" rel="noopener noreferrer">Mr. Noby Mathew</a>,
     content: "Confidential Asst. Grade I"
   };
   Cefaculty14 = {
     instanceID: "Cefaculty14",
     image: "Allstaffphoto/ADM/ADM/EDOuseph.jpg",
     width: "50%",
-    name: "Mr. E D Ouseph",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF135" target="_blank" rel="noopener noreferrer">Mr. E D Ouseph</a>,
     content: "Work Supervisor"
   };
   Cefaculty15 = {
     instanceID: "Cefaculty15",
     image: "Allstaffphoto/ADM/ADM/JainPVarghese.jpg",
     width: "50%",
-    name: "Mr. Jain P Varghese",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF138" target="_blank" rel="noopener noreferrer">Mr. Jain P Varghese</a>,
     content: "DTP Operator"
   };
   Cefaculty16 = {
     instanceID: "Cefaculty16",
     image: "Allstaffphoto/ADM/ADM/bijuvarghese.jpeg",
     width: "50%",
-    name: "Mr. Biju Varghese ",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF114" target="_blank" rel="noopener noreferrer">Mr. Biju Varghese</a>,
     content: "Office Asst."
   };
   Cefaculty17 = {
     instanceID: "Cefaculty17",
     image: "Allstaffphoto/ADM/ADM/mdjose.jpeg",
     width: "50%",
-    name: "Mr. M D Jose",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF115" target="_blank" rel="noopener noreferrer">Mr. M D Jose</a>,
     content: "Office Asst."
-  };
-  Cefaculty18 = {
-    instanceID: "Cefaculty18",
-    image: "Allstaffphoto/ADM/ADM/jorbinbaby.JPEG",
-    width: "50%",
-    name: "Mr. Jorbin Baby",
-    content: "Office Asst."
-  };
+  };  
   Cefaculty21 = {
     instanceID: "Cefaculty21",
     image: "Allstaffphoto/ADM/ADM/allijohn.jpeg",
     width: "50%",
-    name: "Ms. Alli John",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF119" target="_blank" rel="noopener noreferrer">Ms. Alli John</a>,
     content: "Class IV"
   };
   
@@ -140,71 +133,64 @@ class CSFaculty extends Component {
     instanceID: "Cefaculty22",
     image: "Allstaffphoto/ADM/ADM/lisyjose.jpeg",
     width: "50%",
-    name: "Mrs. Lisy Jose",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF120" target="_blank" rel="noopener noreferrer">Mrs. Lisy Jose</a>,
     content: "Class IV"
   };
   Cefaculty23 = {
     instanceID: "Cefaculty23",
     image: "Allstaffphoto/ADM/ADM/ranisabu.jpeg",
     width: "50%",
-    name: "Mrs. Rani Sabu",
-    content: "Class IV"
-  };
-  Cefaculty24 = {
-    instanceID: "Cefaculty24",
-    image: "Allstaffphoto/ADM/ADM/geethadomini.jpeg",
-    width: "50%",
-    name: "Mrs. Geetha Domini",
-    content: "Class IV"
-  };
-  Cefaculty25 = {
-    instanceID: "Cefaculty25",
-    image: "Allstaffphoto/ADM/ADM/elsyjoseph.jpeg",
-    width: "50%",
-    name: "Ms. Elsy Joseph",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF121" target="_blank" rel="noopener noreferrer">Mrs. Rani Sabu</a>,
     content: "Class IV"
   };
   Cefaculty26 = {
     instanceID: "Cefaculty26",
     image: "Allstaffphoto/ADM/ADM/minithomas.jpeg",
     width: "50%",
-    name: "Mrs. Mini Thomas",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF125" target="_blank" rel="noopener noreferrer">Mrs. Mini Thomas</a>,
     content: "Class IV"
   };
   Cefaculty27 = {
     instanceID: "Cefaculty27",
     image: "Allstaffphoto/ADM/ADM/rosilyjordy.jpeg",
     width: "50%",
-    name: "Mrs. Rosily Jordy",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF126" target="_blank" rel="noopener noreferrer">Mrs. Rosily Jordy</a>,
     content: "Class IV"
   };
   Cefaculty28 = {
     instanceID: "Cefaculty28",
     image: "Allstaffphoto/ADM/ADM/alphonsajoy.jpg",
     width: "50%",
-    name: "Mrs. Alphonsa Joy",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF127" target="_blank" rel="noopener noreferrer">Mrs. Alphonsa Joy</a>,
     content: "Class IV"
   };
   Cefaculty29 = {
     instanceID: "Cefaculty29",
     image: "Allstaffphoto/ADM/ADM/lissysunny.JPG",
     width: "50%",
-    name: "Mrs. Lissy Sunny",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF128" target="_blank" rel="noopener noreferrer">Mrs. Lissy Sunny</a>,
     content: "Class IV"
   };
   Cefaculty30 = {
     instanceID: "Cefaculty30",
     image: "Allstaffphoto/ADM/ADM/minibinu.JPG",
     width: "50%",
-    name: "Mrs. Mini Binu",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF129" target="_blank" rel="noopener noreferrer">Mrs. Mini Binu</a>,
     content: "Class IV"
   };
   Cefaculty31 = {
     instanceID: "Cefaculty31",
     image: "Allstaffphoto/ADM/ADM/ValsaMathew.jpg",
     width: "50%",
-    name: "Mrs. Valsa Mathew",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF137" target="_blank" rel="noopener noreferrer">Mrs. Valsa Mathew</a>,
     content: "Class IV"
+  };
+  Cefaculty33 = {
+    instanceID: "Cefaculty33",
+    image: "Allstaffphoto/EC/STAF/178.jpg",
+    width: "50%",
+    name: <a href="https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ECSTF109" target="_blank" rel="noopener noreferrer">Mr. Anish George</a>,
+    content: "Tradesman"
   };
   render() {
     return (
@@ -237,9 +223,9 @@ class CSFaculty extends Component {
           <div>
             <FacultyData data={this.Cefaculty9} />
           </div>
-          <div>
+          {/*<div>
             <FacultyData data={this.Cefaculty10} />
-          </div>
+          </div>*/}
           <div>
             <FacultyData data={this.Cefaculty11} />
           </div>
@@ -262,7 +248,7 @@ class CSFaculty extends Component {
             <FacultyData data={this.Cefaculty17} />
           </div>
           <div>
-            <FacultyData data={this.Cefaculty18} />
+            <FacultyData data={this.Cefaculty33} />
           </div>
           <div>
             <FacultyData data={this.Cefaculty21} />
@@ -272,12 +258,6 @@ class CSFaculty extends Component {
           </div>
           <div>
             <FacultyData data={this.Cefaculty23} />
-          </div>
-          <div>
-            <FacultyData data={this.Cefaculty24} />
-          </div>
-          <div>
-            <FacultyData data={this.Cefaculty25} />
           </div>
           <div>
             <FacultyData data={this.Cefaculty26} />

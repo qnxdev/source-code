@@ -6,21 +6,21 @@ class ITStaff extends Component {
     instanceID: "Cestaff1",
     image: "Allstaffphoto/IT/STAF/4.jpg",
     width: "50%",
-    name: "Mrs. Preethy Joseph",
+    name: <a href="https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ITSTF101" target="_blank" rel="noopener noreferrer">Mrs. Preethy Joseph</a>,
     content: "Computer Programmer"
   };
   Cefaculty2 = {
     instanceID: "Cefaculty2",
     image: "Allstaffphoto/IT/STAF/194.jpg",
     width: "50%",
-    name: "Mr. Shaji A Varghese",
+    name: <a href="https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ITSTF104" target="_blank" rel="noopener noreferrer">Mr. Shaji A Varghese</a>,
     content: "Trade Instructor"
   };
   Cefaculty11 = {
     instanceID: "Cefaculty11",
-    image: "Allstaffphoto/IT/FAC/Sr.RecyVarghese.jpg",
+    image: "Allstaffphoto/IT/STAF/srcv.jpg",
     width: "50%",
-    name: "Sr. Recy Varghese",
+    name: <a href="https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ITSTF102" target="_blank" rel="noopener noreferrer">Sr. Recy Varghese</a>,
     content: "Computer Programmer"
   };
 

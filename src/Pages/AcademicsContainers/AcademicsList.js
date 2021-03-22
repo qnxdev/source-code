@@ -27,7 +27,7 @@ class AcademicsList extends Component {
   }
   AcademicsText = {
     instanceID: "AcademicsText",
-    title: "Viswajyothi College of Engineering & Technology has 6 academic departments which offer four post graduate and six UnderGraduate Engineering Degree Programs. "
+    title: "Viswajyothi College of Engineering & Technology has 6 academic departments which offer four Post Graduate and seven Under Graduate Engineering Degree Programs. "
   }
 
   PGCourse = {
@@ -81,7 +81,7 @@ class AcademicsList extends Component {
   };
   UGCourse7 = {
     instanceID: "UGCourse7",
-    title: "Artificial Intelligence "
+    title: "Artificial Intelligence and Data Science"
   }
 
   render() {

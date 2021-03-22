@@ -9,20 +9,19 @@ class MEFaculty extends Component {
     name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=MEFAC101" target="_blank" rel="noopener noreferrer">Mr. Vinoj K</a>,
     content: "Associate Professor"
   };
-  
   Cefaculty3 = {
     instanceID: "Cefaculty3",
     image: "Allstaffphoto/ME/FAC/199.jpg",
     width: "50%",
     name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=MEFAC105" target="_blank" rel="noopener noreferrer">Dr. Shunmugesh K</a>,
-    content: "Head of the Department"
+    content: "Professor & HOD"
   };
   Cefaculty4 = {
     instanceID: "Cefaculty4",
     image: "Allstaffphoto/ME/FAC/348.jpg",
     width: "50%",
     name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=MEFAC140" target="_blank" rel="noopener noreferrer">Dr. Sajan T.John</a>,
-    content: "Associate Professor"
+    content: "Asso. Prof. & Asst. HOD"
   };
   Cefaculty5 = {
     instanceID: "Cefaculty5",
@@ -36,7 +35,7 @@ class MEFaculty extends Component {
     instanceID: "Cefaculty7",
     image: "Allstaffphoto/ME/FAC/209.jpg",
     width: "50%",
-    name: <a href="h https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=MEFAC115" target="_blank" rel="noopener noreferrer">Mr. Tijo Jose</a>,
+    name: <a href="https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=MEFAC115" target="_blank" rel="noopener noreferrer">Mr. Tijo Jose</a>,
     content: "Assistant Professor"
   };
   Cefaculty8 = {
@@ -163,7 +162,7 @@ class MEFaculty extends Component {
     instanceID: "Cefaculty26",
     image: "Allstaffphoto/ME/FAC/AravindS.JPEG",
     width: "50%",
-    name: "Mr. Aravind S",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=MEFAC112" target="_blank" rel="noopener noreferrer">Mr. Aravind S</a>,
     content: "Assistant Professor(on Leave-Ph.D)"
   };
   render() {
@@ -233,13 +232,13 @@ class MEFaculty extends Component {
             <FacultyData data={this.Cefaculty22} />
           </div>
           <div>
+            <FacultyData data={this.Cefaculty25} />
+          </div>
+          <div>
             <FacultyData data={this.Cefaculty23} />
           </div>
           <div>
             <FacultyData data={this.Cefaculty24} />
-          </div>
-          <div>
-            <FacultyData data={this.Cefaculty25} />
           </div>
         </div>
       </div>

@@ -138,11 +138,11 @@ class Header extends Component {
     link: "/iqac"
   };
 
-  Link12 = {
+  /*Link13 = {
     instanceID: "HeaderLink11",
     title: "NISP",
     link: "/nisp"
-  };
+  };*/
   LineHeading = {
     instanceID: "LineHeading"
   };
@@ -168,7 +168,7 @@ class Header extends Component {
           <a href="https://admission.vjcet.ac.in/">
             <div id="AdmissionImage">
               <div className="animcontent">
-                B.Tech Admission 2020
+                B.Tech Admission 2021
               </div>
             </div>
           </a>
@@ -193,9 +193,10 @@ class Header extends Component {
             <AnchorLink data={this.Link9} />
             <DropDownF />
             <DropDownIedc />
-            {/* <AnchorLink data={this.Link7} /> */}
+            {/* <AnchorLink data={this.Link7} /> <AnchorLink data={this.Link13}/>*/}
             <AnchorLink data={this.Link10} />
             <AnchorLink data={this.Link12} />
+             
 
           </div>
         </div>

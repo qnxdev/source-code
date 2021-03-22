@@ -24,23 +24,16 @@ class fablab extends Component {
     title:
       "The Fab Lab established at VJCET mainly comprises of the following inventories."
   };
-  
-
   render() {
     return (
       <div className="Program" id="program">
-         <HeadingOne data={this.FablabHeading} />
+        <HeadingOne data={this.FablabHeading} />
         <Bodythree data={this.FablabContent1} />
         <Bodythree data={this.FablabContent2} />
         <Bodythree data={this.FablabContent3} />
-        <ul>
-          <p align="left"><li>Laser Cutter</li></p>
-          <p align="left"> <li>Shopbot</li></p>
-          <p align="left"><li>3D printers: Ultimaker 2+</li></p>
-          <p align="left"><li>Vinyl Cutter</li></p>
-          <p align="left"><li>Electronic Components and Tools</li></p>
-
-        </ul>
+  
+     <img src="http://vjcet.org/downloads/RandD/RDpr.jpg" alt="Qries" width="600" height="670"></img>
+    
       </div>
     );
   }

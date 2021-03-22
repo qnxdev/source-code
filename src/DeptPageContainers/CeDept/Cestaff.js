@@ -15,7 +15,7 @@ class CEStaff extends Component {
     image: "Allstaffphoto/CE/STAF/59.jpg",
     width: "50%",
     name: "Mr. Jobish K Jose",
-    content: "Trade Instructor"
+    content: "Trade Instructor1"
   };
   Cefaculty3 = {
     instanceID: "Cefaculty3",

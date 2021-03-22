@@ -86,7 +86,7 @@ class Newsfive extends React.Component {
                     <p>Name of the Bank - <b>South Indian Bank</b></p>
                     <p>Name of the Branch - <b>Vazhakulam - IFSC Code : SIBL0000335</b></p>
                     <p>Account Number : <b>0335073000000155</b></p>
-                    <p><span className="text_red">Please mention Admission Number of the student in remarks.</span></p><br></br>
+                    <p><span className="text_red">Very Important : Please mention Admission Number of the student in remarks.</span></p><br></br>
                     <p><span className="text_red">SIB Online Fee Payment </span> <a href="https://southindianbank.in/feepayment/" target="_blank">Click Here </a></p>
                     <p><span className="text_red">To download Bank Challan </span><a href="https://vjcet.org/downloads/news/SIBChallan.pdf" target="_blank"> Click Here </a></p>
                     

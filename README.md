@@ -4,6 +4,6 @@
 
 
 ### Developed by
->* Balu M N     [@balumn](www.github.com/balumn)
->* Abin Joseph  [@abin222](www.github.com/abin222)
->* Antony Tomy  [@qnxdev](www.github.com/qnxdev)
+>* Balu M N     [@balumn](https://www.github.com/balumn)
+>* Abin Joseph  [@abin222](https://www.github.com/abin222)
+>* Antony Tomy  [@qnxdev](https://www.github.com/qnxdev)

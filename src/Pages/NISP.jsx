@@ -71,10 +71,6 @@ class NISP extends Component {
             title: "Profile"
         },
         {
-            id: "team",
-            title: "NISP Team"
-        },
-        {
             id: "objectives",
             title: "Objectives"
         },
@@ -170,10 +166,7 @@ class NISP extends Component {
                         <div className="NispSideBarItem">
                             <HeadingThree data={this.ProfileHeading} />
                             <BodyThree data={this.IedcBody1} /><br />
-                        </div>
-                    }
-                    {this.state.select === this.SideNavSelector[1].id &&
-                        <div className="NispSideBarItem">
+                            <br/>
                             <HeadingThree data={this.InchargesHeading} />
                             <table id="tableformat">
                                 <tbody>
@@ -189,10 +182,9 @@ class NISP extends Component {
                                 </tbody>
 
                             </table>
-
                         </div>
                     }
-                    {this.state.select === this.SideNavSelector[2].id &&
+                    {this.state.select === this.SideNavSelector[1].id &&
                         <div className="NispSideBarItem">
                             <div className="NispObjectiveHeading">
                                 <HeadingThree data={this.ObjectiveHeading} />
@@ -206,26 +198,27 @@ class NISP extends Component {
                             </ul>
                         </div>
                     }
-                    {this.state.select === this.SideNavSelector[3].id &&
+                    {this.state.select === this.SideNavSelector[2].id &&
                         <div className="NispSideBarItem">
                             <div className="NispObjectiveHeading">
                                 <HeadingThree data={this.FunctionHeading} />
                             </div>
                             <div className="NispStartUp">
                                 <h4>View Startup Policy: </h4>
-                                <a href="https://drive.google.com/file/d/1bUK8EJeCr2TTjDPX-0ho1ch-_saHT4Gl/view?usp=sharing" className="NispButton" target="_blank">
+                                <a href="https://vjcet.org/downloads/NISPPolicy.pdf" className="NispButton" target="_blank">
                                     <h4>Open Policy</h4>
                                 </a>
                             </div>
+                            <iframe src="https://vjcet.org/downloads/NISPPolicy.pdf" width="90%" height="700" title="Institutional Plan" align="center"></iframe> 
                         </div>
                     }
-                    {this.state.select === this.SideNavSelector[4].id &&
+                    {this.state.select === this.SideNavSelector[3].id &&
                         <div className="NispSideBarItem">
                             <div className="NispObjectiveHeading">
                                 <HeadingThree data={this.CompanyHeading} />
 
                             </div>
-                            <ul className="NispActivitiesList">
+                            {/*<ul className="NispActivitiesList">
                                 {this.ActivitiesData.map(i =>
                                     <div key={this.ObjectiveData.indexOf(i)} className="NispActivities">
                                         <li>
@@ -238,7 +231,8 @@ class NISP extends Component {
                                         </li>
                                     </div>
                                 )}
-                            </ul>
+                                </ul>*/}
+                            <iframe src="https://vjcet.org/downloads/nisp.pdf" width="90%" height="700" title="nisp" align="center"></iframe> 
                         </div>
                     }
                 </SideNavBar>

@@ -186,8 +186,47 @@ ReserchBody37 = {
   instanceID: "ReserchBody37",
   title: "Technical Quiz Competition on October 4th 2018 in association with the R&D and ECE Association.  Aleesha Mariam Chacko and Sreehari S were the Quiz Masters."
 }
-
-    
+ReserchBody38 = {
+  instanceID: "ReserchBody38",
+  title: "Dr. K . K Rajan and Dr. B Aruna, “Development of level sensor for Lead-Lithium loop system”, Grant Amount: 33 Lakhs, Funding Agency: Dept. of Atomic Energy, BRNS: (Project Completed)."
+}
+ReserchBody39 = {
+  instanceID: "ReserchBody39",
+  title: "Dr. B Aruna,Dr. K . K Rajan & Shri K Vinoj “Development of Lead - Lithium to Helium Heat Exchanger and Circulation Type Electrical Heater for Heat Exchanger Test Facility”, BRNS Govt. of India , Grant Amount: 29 Lakhs."
+}
+ReserchBody40 = {
+  instanceID: "ReserchBody40",
+  title: "Project entitled “AGR-E” by Mr. Firoz S, Mr. Erfan Muhammed CK, Mr. Bilal Shamsudhin, Mr. Sanjay MS Students of S7 ME A project funding of Rs.2,00,000 as Idea grant, Scale up grant and Productisation grant from Kerala Start Up Mission - Project Guide: Mr. Nidheesh K, Assistant professor, MED."
+}
+ReserchBody41 = {
+  instanceID: "ReserchBody41",
+  title: "Project entitled “Fully automated Weed Controller” by Mr. Kevin G, Mr. Sagar Vincent, Mr. Aldrin Baby, Mr.Ammer E A of S7 ME A got   project funding of Rs.20,000 under KSCSTE-INNOVATE scheme funded by Kerala State Council for Science Technology and Environment, . Project Guide: Mr. Unnikrishnan T.G, Assistant professors, MED."
+}
+ReserchBody42 = {
+  instanceID: "ReserchBody42",
+  title: "Project entitled “Portable Nutmeg Seperator-Nut-X” by Mr. Albin Paul, Mr. Eldhose Raju, Mr.Harikrishnan A S and Mr.Jipil P Chettoor, of S7 ME A got   project funding of Rs.7,000 under Yuva Mastermind  scheme funded by Malayala manorama , Startup Valley -Amaljyothi TBI  . Project Guide: Mr.Eldhose Kurian, Assistant professors, MED."
+}
+ReserchBody43 = {
+  instanceID: "ReserchBody43",
+  title: "Project entitled “Portable Nutmeg Seperator-Nut-X” by Mr. Albin Paul,  Mr. Eldhose Raju, Mr.Harikrishnan A S and Mr.Jipil P Chettoor, of S7 ME A got   project funding of Rs.10,000 under Students Project  scheme funded by Kerala State Council for Science Technology and Environment, Project Guide: Mr.Eldhose Kurian, Assistant professors, MED."
+}
+ReserchBody44 = {
+  instanceID: "ReserchBody44",
+  title: "Department of Mechanical Engineering received a funding of Rs.18, 43,000 from AICTE under MODERNISATION AND REMOVAL OF OBSOLENSCENCE (MODROBS) scheme for the CNC Milling Machine. Project Coordinator :Dr.Shunmugesh K."
+}
+ReserchBody45 = {
+  instanceID: "ReserchBody45",
+  title: "Mrs.Anu C Kunjachan,The Project work, 'ATM Theft Prevention System When Surveillance camera wire is found cut' was sanctioned during the academic year 2019-2020 by Kerala State Council for Science, Technology and Environment (KSCSTE), date of sanction is 16/1/2020 and Amount sanctioned is Rs.10000."
+}
+ReserchBody46 = {
+  instanceID: "ReserchBody46",
+  title: "KTU sponsored Faculty Development Programme on ”Geo-Hazards & Disaster Mitigation was organized by Civil Engineering Department in Association with R & D Centre on December 12th-14th2019 and amount sanctioned was Rs.1,50000."
+}
+ReserchBody47 = {
+  instanceID: "ReserchBody47",
+  title: "Project entitled “Robotic Assist for Walking Disability” by Mr. Muhammed Salih, Mr. Midhun Babu, Mr. Naveen B, Mr.Anandhu Sabu of S7 ME A got   project funding of Rs.10,000 under Students Project  scheme funded by Kerala State Council for Science Technology and Environment, . Project Guide: Mr.Nibin B, Assistant professors, MED."
+}
+   
     render() {
         return (
             <div className="HomePage">
@@ -379,11 +418,67 @@ ReserchBody37 = {
                             <BodyOneJustified data={this.ReserchBody37} />
                             </p>
                         </li>
+                        <li>
+                            <p>
+                            <BodyOneJustified data={this.ReserchBody38} />
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                            <BodyOneJustified data={this.ReserchBody39} />
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                            <BodyOneJustified data={this.ReserchBody40} />
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                            <BodyOneJustified data={this.ReserchBody41} />
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                            <BodyOneJustified data={this.ReserchBody42} />
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                            <BodyOneJustified data={this.ReserchBody43} />
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                            <BodyOneJustified data={this.ReserchBody44} />
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                            <BodyOneJustified data={this.ReserchBody45} />
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                            <BodyOneJustified data={this.ReserchBody46} />
+                            </p>
+                         </li>
+                         <li>
+                            <p>
+                            <BodyOneJustified data={this.ReserchBody47} />
+                            </p>
+                        </li>
+                                               
                     </ul>
-
-                   </div>                              
-            </div>
-           
+                   </div> 
+                   <p align="left" ><b>Recognized Ph.D Guides at Kerala Technology University</b>  
+                   <table>
+                        <tr><td>Dr. Anishin Raj M.M</td><td>CSE</td></tr>
+                        <tr><td>Dr. ShunmugeshK</td><td>ME</td></tr>
+                        <tr><td>Dr. Sajan T. John</td><td>ME</td></tr>
+                        <tr><td>Dr. Sony Kurian</td><td>EEE</td></tr>                          
+                  </table></p>
+              </div>
         );
     }
 }
