@@ -70,6 +70,8 @@ import iqac from "./iqac/profile";
 import Notify from "./Components/notify";
 import NotiPage from './Pages/Notifications';
 import NISP from "./Pages/NISP";
+import ErrorPage from "./Pages/ErrorPage";
+import Ict from "./CampusLifePageContainers/ProfessionalBodies/ICT";
 
 class App extends Component {
 
@@ -725,6 +727,10 @@ class App extends Component {
               <Route exact path="/campus-life/professionalbodies/igbc" component={igbc} />
               <Route exact path="/campus-life/professionalbodies/sae" component={sea} />
               <Route exact path="/campus-life/professionalbodies/iete" component={iete} />
+              <Route exact path="/campus-life/professionalbodies/ict" component={Ict} />
+
+
+
               <Route exact path="/notifications" component={NotiPage} />
 
 
@@ -771,6 +777,7 @@ class App extends Component {
               <Route exact path="/ed/unai" component={Unai} />
               <Route exact path="/iqac" component={iqac} />
               <Route exact path="/nisp" component={NISP} />
+              <Route component={ErrorPage} />
             </Switch>
           </React.Fragment>
         </Router>

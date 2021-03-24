@@ -1,16 +1,15 @@
 import React, { Component } from "react";
-import Header from "../Components/Header&Footer/Header";
-import Footer from "../Components/Header&Footer/Footer";
-import MenuOverlay from "../Components/MenuOverlay/MenuOverlay";
-import ImageOne from "../Components/Images/ImageOne";
-import HeadingOne from "../Components/Texts/HeadingOne";
-import BodyThree from "../Components/Texts/BodyThree";
-import BodyOneJustified from "../Components/Texts/BodyOneJustified";
-import "../Pages/Research.css";
-import "../Components/Tables/tableformat.css";
-import HeadingThree from "../Components/Texts/HeadingThree";
+import HeadingOne from "../../Components/Texts/HeadingOne";
+import BodyThree from "../../Components/Texts/BodyThree";
+import "../../Pages/Research.css";
+import "../../Components/Tables/tableformat.css";
+import HeadingThree from "../../Components/Texts/HeadingThree";
+import Header from "../../Components/Header&Footer/Header";
+import Footer from "../../Components/Header&Footer/Footer";
+import ImageOne from "../../Components/Images/ImageOne";
+import MenuOverlay from "../../Components/MenuOverlay/MenuOverlay";
 
-class Iedc extends Component {
+class Ict extends Component {
     state = { showMenu: false };
     openMenu = () => {
         console.log("opening Menu");
@@ -110,4 +109,4 @@ class Iedc extends Component {
     }
 }
 
-export default Iedc;
+export default Ict;

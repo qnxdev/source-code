@@ -40,7 +40,7 @@ class ResourcesGroup extends Component {
     listID: "Four",
     title: "Audited Financial Statements",
     icon: "Icons/icon4.svg",
-    filePath: "https://vjcetwebadmin.github.io/downloads/FinancialStatements.zip"
+    filePath: "https://vjcetwebadmin.github.io/downloads/Financialstatements.zip"
   };
 
   ResourceListFive = {
