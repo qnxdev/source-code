@@ -191,8 +191,8 @@ export default function CarouselFour({ data }) {
             containerClass="container-with-dots"
             itemClass="image-item"
           >
-            {slides.map((item) => (
-              <div className="CarouselFourSlide" id={instanceID + "SlideThree"}>
+            {slides.map((item,index) => (
+              <div key={index} className="CarouselFourSlide" id={instanceID + "SlideThree"}>
                 <ImageOne data={item.Image} />
                 <HeadingFive data={item.Title} />
               </div>

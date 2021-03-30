@@ -8,6 +8,7 @@ import Header from "../../Components/Header&Footer/Header";
 import Footer from "../../Components/Header&Footer/Footer";
 import MenuOverlay from "../../Components/MenuOverlay/MenuOverlay";
 import HeadingOne from "../../Components/Texts/HeadingOne";
+import { Link } from "react-router-dom";
 //import ImageOne from "../../Components/Images/ImageOne";
 //import ImageTwo from "../../Components/Images/imageTwo";
 
@@ -67,6 +68,12 @@ class Newsfive extends React.Component {
         width: "20%"
     }
     
+    QuickNewsLinks={
+        text1: "SIB Online Fee Payment",
+        link1: "https://southindianbank.in/feepayment/",
+        text2: "Download Bank Challan",
+        link2: "https://vjcet.org/downloads/news/SIBChallan.pdf"
+    }
     
 
     render() {
@@ -79,6 +86,14 @@ class Newsfive extends React.Component {
                    
                    <HeadingOne data={this.NewsTitle} />
                    <BodyOneJustified data={this.Newscontent}/> 
+                    <div className="quickNewsLinks">
+                        <a className="quickNewsLink1" target="_blank" href={this.QuickNewsLinks.link1}>
+                                <h3>{this.QuickNewsLinks.text1}</h3>
+                        </a>
+                        <a className="quickNewsLink2" target="_blank" href={this.QuickNewsLinks.link2}>
+                                <h3>{this.QuickNewsLinks.text2}</h3>
+                        </a>
+                    </div>
                     
                    <p>For payment through <span className="text_red">NEFT</span>, Bank Account Details,</p>
 
@@ -99,7 +114,49 @@ class Newsfive extends React.Component {
 
                 <Footer data={this.HomePageFooter} />
                 {this.state.showMenu ? (<MenuOverlay closeMenuFunction={this.closeMenu} />) : ("")}
+                <style jsx>{`
+                    .quickNewsLinks{
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    .quickNewsLinks a{
+                        padding: 10px;
+                        border: 2px solid;
+                        border-radius: 7px;
+                        margin: 0 20px;
+                    }
+                    .quickNewsLinks a h3{
+                        margin: 0;
+                    }
+                    .quickNewsLink1{
+                        border-color: #29b14d !important;
+                        color: #29b14d !important;
+                    }
+                    .quickNewsLink2{
+                        border-color: #7b0fb1 !important;
+                        color: #7b0fb1 !important;
+                    }
+                    .quickNewsLink1:hover,.quickNewsLink1:focus,.quickNewsLink1:active{
+                        background: #29b14d !important;
+                        color: #fff !important;
+                        transform: scale(1.02)
+                    }
+                    .quickNewsLink2:hover,.quickNewsLink2:focus,.quickNewsLink2:active{
+                        background: #7b0fb1 !important;
+                        color: #fff !important;
+                        transform: scale(1.02)
+                    }
+                    @media(max-width: 768px){
+                        .quickNewsLinks{
+                            flex-direction: column;
+                        }
+                        .quickNewsLinks a{
+                            margin: 10px 0;
+                        }
 
+                    }
+                `}</style>
             </React.Fragment>
         )
     }

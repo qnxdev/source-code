@@ -149,7 +149,6 @@ class Header extends Component {
 
   render() {
     const { instanceID } = this.props.data;
-    console.log(this.props.data.instanceID);
     return (
       <div className="Header" id={instanceID}>
         <Link to={"/"}>

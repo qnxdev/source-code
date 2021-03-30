@@ -32,9 +32,9 @@ class DropDownA extends Component {
 
   render() {
     return (
-      <div class="dropdown">
+      <div className="dropdown">
         <span>Academics</span>
-        <div class="dropdown-content">
+        <div className="dropdown-content">
           <p>
             <Link
               to="/academics/courses-offered"

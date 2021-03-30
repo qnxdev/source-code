@@ -44,6 +44,13 @@
 .togglenotifier:hover {
     cursor: pointer;
 }
+
+.extranotify h4{
+    color: #fff !important;
+    text-align: center;
+    margin: 0;
+    text-decoration: underline;
+}
 @media (max-width: 480px) {
     .notifier {
         padding: 0.3rem;
@@ -60,5 +67,9 @@
     }
     #notification {
         font-size: 15px;
+    }
+    .extranotify h4{
+        margin-bottom: 20px;
+        font-size: 0.9rem ;
     }
 }

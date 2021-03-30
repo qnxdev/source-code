@@ -7,7 +7,7 @@ import "../../Components/News/gallery.css";
 import Header from "../../Components/Header&Footer/Header";
 import Footer from "../../Components/Header&Footer/Footer";
 import MenuOverlay from "../../Components/MenuOverlay/MenuOverlay";
-import HeadingOne from "../../Components/Texts/HeadingOne";
+//import HeadingOne from "../../Components/Texts/HeadingOne";
 //import ImageOne from "../../Components/Images/ImageOne";
 //import ImageTwo from "../../Components/Images/imageTwo";
 
