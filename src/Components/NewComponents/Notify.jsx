@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import "./notify.css";
+import "./styles/Notify.css";
 
 export default function Notify() {
   const [notify, setNotifier] = useState(true);

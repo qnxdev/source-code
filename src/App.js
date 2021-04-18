@@ -67,7 +67,7 @@ import Vbic from "./EdPageContainers/Vbic";
 import Iiic from "./EdPageContainers/IIIC/csdepartment";
 import Unai from "./EdPageContainers/Unai";
 import iqac from "./iqac/profile";
-import Notify from "./Components/notify";
+import Notify from "./Components/NewComponents/Notify";
 import NotiPage from './Pages/Notifications';
 import NISP from "./Pages/NISP";
 import ErrorPage from "./Pages/ErrorPage";

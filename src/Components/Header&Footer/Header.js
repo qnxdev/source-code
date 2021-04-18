@@ -12,7 +12,7 @@ import DropDownA from "./dropdownAcademics";
 import DropDownAb from "./dropdownAbout";
 import DropDownL from "./dropdownLogin";
 import DropDownF from "./dropdownfacilities";
-import ContactLink from "../Texts/Contactlink"
+//import ContactLink from "../Texts/Contactlink"
 import DropDownAdm from "./dropdownAdmission";
 import DropDownIedc from "./dropdowniedc";
 
