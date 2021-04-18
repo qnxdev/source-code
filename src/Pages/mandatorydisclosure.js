@@ -80,7 +80,7 @@ class Mandatorydisclosure extends React.Component {
                     <HeadingOne data={this.CCCNATitle} className="Heading" />
                     
                     
-                    <iframe src="https://vjcet.org/downloads/about/MANDATORY_DISCLOSURE_20.pdf" width="100%" height="800" title="Campus Map" align="center"></iframe>
+                    <iframe src="https://vjcet.org/downloads/about/Mandatory2021.pdf" width="100%" height="800" title="Campus Map" align="center"></iframe>
                    <br />
                    
                    

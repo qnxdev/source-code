@@ -13,7 +13,7 @@ class Profile extends Component {
  
   CSIImage = {
     instanceID: "CSIImage",
-    image: "ProfessionalBodies/CSI.jpg",
+    image: "ProfessionalBodies/CSI.png",
     width: "15%"
 }
 InchargesHeading = {

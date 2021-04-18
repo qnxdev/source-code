@@ -37,7 +37,6 @@ ActivitiesHeading = {
   render() {
     return (
       <div className="Profile" id="profile">
-      <Header data={{instanceID:""}}/>
         
       {/*  <p align="right"><a href="https://vjcet.org/downloads/Gallery/Drishya.html" target="_blank" rel="noopener noreferrer"><ImageTwo data={this.Imagegallerydata} /></a></p> */}
        {/* <HeadingOne data={this.ProfileHeading} />  */}

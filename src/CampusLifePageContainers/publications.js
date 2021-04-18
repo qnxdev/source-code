@@ -41,7 +41,7 @@ class Publications extends React.Component {
                 <HeadingOne data={this.CampustTitle} />
                 <div className="bodyContainer">
                     
-                    <iframe src="https://vjcet.org/downloads/Magazine2018.pdf" width="90%" height="800" title="Campus Map" align="center"></iframe>
+                    <iframe src="https://vjcet.org/downloads/Magazine2020.pdf" width="90%" height="800" title="Campus Map" align="center"></iframe>
                 </div>
             </div>      
                

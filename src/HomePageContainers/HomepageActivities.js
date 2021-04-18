@@ -78,7 +78,7 @@ class DepartmentSection extends Component {
     return (
       <div className="DepartmentSection" id={instanceID}>
         <HeadingOne data={this.DepartmentSectionTitle} />
-        <BodyOne data={this.DepartmentSectionSubTitle} />
+       <BodyOne data={this.DepartmentSectionSubTitle} />
         <Link to="/departments/ce" style={{ textDecoration: "none" }}>
           <DepartmentList data={this.DepartmentListOne} />
         </Link>
@@ -102,7 +102,7 @@ class DepartmentSection extends Component {
         </a>
         <Link to="departments/s&h" style={{ textDecoration: "none" }}>
           <DepartmentList data={this.DepartmentListEight} />
-        </Link>
+    </Link>
       </div>
     );
   }

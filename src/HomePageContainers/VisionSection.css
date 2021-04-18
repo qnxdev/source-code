@@ -4,13 +4,16 @@
   display: grid;
   grid-template-columns: 100%;
   grid-template-areas: "b";
-
   padding-top: 2%;
 }
 
 .VisionSectionA {
   grid-area: a;
   display: none;
+}
+.VisionSectionABottom {
+  grid-area: d;
+  grid-template-columns: 100%;
 }
 
 .VisionSectionB {
@@ -32,21 +35,27 @@
   .VisionSectionA {
     padding: 5% 0%;
     display: inline-block;
+
   }
 
   .VisionSection {
-    padding: 1% 0% 4% 0%;
+    padding: 1% 0% 3% 0%;
 
     grid-template-columns: 50% 50%;
     grid-template-areas:
       "a a"
-      "b c";
+      "b c"
+      "d d";
   }
   .VisionSectionA {
-    padding: 2% 2% 5% 2%;
+    padding: 2% 2% 1% 2%;
+ 
+  }
+  .VisionSectionABottom {
+    padding: 3% 3% 1% 3%;
   }
   .VisionSectionB {
-    text-align: left;
+   
     padding-left: 10%;
     padding-right: 5%;
   }
@@ -58,28 +67,28 @@
   }
 
   .VisionSectionB p {
-    text-align: start;
+    text-align:justify;
   }
 
   .VisionSectionB h3 {
-    text-align: start;
+    text-align: justify;
   }
 
   .VisionSectionB h1 {
-    text-align: start;
+    text-align: justify;
     color: #b8b8b8;
   }
 
   .VisionSectionC p {
-    text-align: start;
+    text-align: justify;
   }
 
   .VisionSectionC h3 {
-    text-align: start;
+    text-align: justify;
   }
 
   .VisionSectionC h1 {
-    text-align: start;
+    text-align: justify;
     color: #b8b8b8;
   }
 }

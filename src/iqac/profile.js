@@ -35,7 +35,7 @@ class nss extends React.Component {
 
    NssTitle = {
         instanceID: "NssTitle",
-        title: "Internal Quality Audit Cell  (IQAC) "
+        title: "Internal Quality Assurance Cell  (IQAC) "
     };
     
     AboutNssContent = {
@@ -47,7 +47,7 @@ class nss extends React.Component {
         title: "An Aided unit of National Service Scheme (Technical Cell) Unit-197 is started in the College in 12-02-2008 with Mr. Mable Varghese (Asst. Professor, Dept. of Information Technology) as the Program Officer, with 100 Volunteers. In July 2009, Mr. Naveen Jacob (Asst. Professor, Dept. of Electronics and Communication) took charge as the Program officer in 2009. Since the number of students enrolling to NSS has increased, an additional  self-financed unit is sanctioned in the year 2016, Unit-587."
     }
     aboutiqaccontent1={
-        title: "The Internal Quality Audit Cell gives advice and guidelines to the administration to maintain high quality work in academics and administration. The cell monitors the quality aspects of all the academic and non-academic activities of the institution. The cell works on various accreditation aspects. The IQAC in the Institute is composed of 15 Criterias."
+        title: "The Internal Quality Assurance Cell gives advice and guidelines to the administration to maintain high quality work in academics and administration. The cell monitors the quality aspects of all the academic and non-academic activities of the institution. The cell works on various accreditation aspects. The IQAC in the Institute is composed of 15 Criterias."
     }
     criteria1heading={
         title:"1.STUDENTS ASSESSMENT RECORD MONITORING COMMITTEE"

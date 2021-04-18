@@ -9,18 +9,18 @@ class Faculty extends Component {
     width: "50%",
     name: <a href="https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHFAC119" target="_blank" rel="noopener noreferrer">Mr. C. Mavin</a>,
     content: "Assistant Professor & Placement Officer"
-  };
-  Cefaculty4 = {
-    instanceID: "Cefaculty4",
-    image: "Allstaffphoto/PTC/SIBY BABY.jpg",
-    width: "50%",
-    name: <a href="https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHSTF102" target="_blank" rel="noopener noreferrer">Mr. Siby Baby</a>,
+  };  
+  Cefaculty11 = {
+    instanceID: "Cefaculty11",
+    image: "Allstaffphoto/ADM/ADM/arunbobyt.JPEG",
+    width: "55%",
+    name: <a href=" https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=ADSTF110" target="_blank" rel="noopener noreferrer">Mr. Arun Bobby T</a>,
     content: "Assistant Placement Officer"
   };
   Cefaculty5 = {
     instanceID: "Cefaculty5",
     image: "Allstaffphoto/PTC/IMG_7641.jpg",
-    width: "50%",
+    width: "55%",
     name: <a href="https://portal.vjcet.ac.in/StaffGeneralList.aspx?Staffcode=SHSTF105" target="_blank" rel="noopener noreferrer">Mr. Sanoj Saju</a>,
     content: "Assistant Placement Officer"
   };
@@ -40,7 +40,7 @@ class Faculty extends Component {
             <FacultyData data={this.Cefaculty2} />
           </div>
           <div>
-            <FacultyData data={this.Cefaculty4} />
+            <FacultyData data={this.Cefaculty11} />
           </div>
           <div>
             <FacultyData data={this.Cefaculty5} />

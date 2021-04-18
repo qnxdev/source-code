@@ -36,9 +36,8 @@ ActivitiesHeading = {
 
   render() {
     return (
-      <div className="Profile" id="profile">
-        <Header data={{instanceID:""}}/>
-      {/*  <p align="right"><a href="https://vjcet.org/downloads/Gallery/Drishya.html" target="_blank" rel="noopener noreferrer"><ImageTwo data={this.Imagegallerydata} /></a></p> */}
+      <div className="Program" id="program">
+       {/* <p align="right"><a href="https://vjcet.org/downloads/Gallery/Drishya.html" target="_blank" rel="noopener noreferrer"><ImageTwo data={this.Imagegallerydata} /></a></p> */}
        {/* <HeadingOne data={this.ProfileHeading} />  */}
       {/*  <p align="right"><a href="https://vjcet.org/downloads/Gallery/Drishya.html" target="_blank" rel="noopener noreferrer"><ImageTwo data={this.GalleryImage} /></a></p> */}
       <p align="center"><ImageTwo data={this.IEEEImage} /></p>

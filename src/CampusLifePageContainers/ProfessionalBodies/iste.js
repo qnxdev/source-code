@@ -4,7 +4,6 @@ import BodyOneJustified from "../../Components/Texts/BodyOneJustified"
 
 import ImageTwo from "../../Components/Images/imageTwo";
 import HeadingThree from "../../Components/Texts/HeadingThree";
-
 import "../../Components/Tables/tableformat.css";
 import Header from "../../Components/Header&Footer/Header";
 class Profile extends Component {
@@ -39,8 +38,7 @@ ActivitiesHeading = {
   render() {
     return (
       <div className="Profile" id="profile">
-      <Header data={{instanceID:""}}/>
-        
+            
       {/*  <p align="right"><a href="https://vjcet.org/downloads/Gallery/Drishya.html" target="_blank" rel="noopener noreferrer"><ImageTwo data={this.Imagegallerydata} /></a></p> */}
        {/* <HeadingOne data={this.ProfileHeading} />  */}
        <p align="center"><ImageTwo data={this.ISTEImage} /></p>

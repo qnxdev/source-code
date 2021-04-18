@@ -7,15 +7,16 @@ class CarouselTwo extends Component {
   data = [
     {
       instanceID: this.props.data.instanceID + "CustomOne",
+      title: <a href="https://vjcet.org/#/newsthree"  rel="noopener noreferrer"><font color="FFFFF" size="4">Wanted Asst. Professor in Department of Management Studies</font></a>
+    },
+    {
+      instanceID: this.props.data.instanceID + "CustomOne",
       title: <a href="https://vjcet.org/#/newsfive"  rel="noopener noreferrer"><font color="FFFFF" size="4">B.Tech Fee Payment</font></a>
     },
     {
       instanceID: this.props.data.instanceID + "CustomOne",
       title: <a href="https://vjcet.org/#/newstwo"  rel="noopener noreferrer"><font color="FFFFF" size="4">Covid 19, Institutional Plan and SOP</font></a>
-    },{
-      instanceID: this.props.data.instanceID + "CustomOne",
-      title: <a href="https://vjcet.org/#/newsthree"  rel="noopener noreferrer"><font color="FFFFF" size="4">WANTED FACULTY (Artificial Intelligence Department)</font></a>
-    },
+    },    
     {
       instanceID: this.props.data.instanceID + "CustomOne",
       title: <a href="https://vjcet.org/#/newsone"  rel="noopener noreferrer"><font color="FFFFF" size="4">KTU 2016-2020 Batch Final Semester Results Published</font></a>
@@ -52,7 +53,10 @@ class CarouselTwo extends Component {
       instanceID: this.props.data.instanceID + "CustomOne",
       title: <font color="FFFFF" size="4">IEEE of VJCET selected as outstanding students branch</font>
     },        
-    
+    {
+      instanceID: this.props.data.instanceID + "CustomOne",
+      title: <font color="FFFFF" size="4">We have not received any Foreign Contribution  in the last Quarter Year.</font>
+    },
   ];
   rotateRight = () => {
     this.setState({
